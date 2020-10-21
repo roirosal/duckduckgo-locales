@@ -210,6 +210,10 @@ msgstr "添加 DuckDuckGo 到 %s"
 msgid "Add a %s search box to your site!"
 msgstr "在你的网站上放置%s搜索框！"
 
+msgctxt "directions"
+msgid "Add a starting point and destination to find a route."
+msgstr ""
+
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
 "secure connections, and more — all for free."
@@ -579,7 +583,9 @@ msgstr "正常上网"
 msgid ""
 "Browse as usual while we add privacy protection. We bundled our search "
 "engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr "当我们添加隐私保护时，请照常浏览。我们将搜索引擎、跟踪拦截器以及加密执行器组合为一个%s%s扩展程序%s。"
+msgstr ""
+"当我们添加隐私保护时，请照常浏览。我们将搜索引擎、跟踪拦截器以及加密执行器组"
+"合为一个%s%s扩展程序%s。"
 
 msgid ""
 "Browse as usual, and we'll take care of the rest. We bundled our search "
@@ -1249,6 +1255,10 @@ msgstr "你知道你可以%s自定义%sDuckDuckGo吗？"
 msgid "Did you mean %s?"
 msgstr "您是指%s吗？"
 
+msgctxt "directions"
+msgid "Directions"
+msgstr ""
+
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
@@ -1326,6 +1336,10 @@ msgstr "将 %s这个按钮%s 拖到主页图标上："
 #. Instant Answer Tab Name
 msgid "Drinks"
 msgstr "饮料"
+
+msgctxt "directions"
+msgid "Driving"
+msgstr ""
 
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
@@ -1480,11 +1494,19 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "输入口令"
 
+msgctxt "maps_directions"
+msgid "Enter start location"
+msgstr ""
+
 #  Maxthon default search engine instruction
 #. Alias=pseudônimo: pt_pt
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr "输入下列信息：%s名称%s：DuckDuckGo%s搜索串%s：%s快捷字%s：d%s"
+
+msgctxt "maps_directions"
+msgid "Enter your destination"
+msgstr ""
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
@@ -1537,6 +1559,10 @@ msgstr "扩展与更多功能"
 msgctxt "size"
 msgid "Extra Large"
 msgstr "极大"
+
+msgctxt "directions"
+msgid "Fastest Route"
+msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1830,6 +1856,10 @@ msgstr "隐藏经常浏览的站点"
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "隐藏密码"
+
+msgctxt "directions"
+msgid "Hide steps"
+msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -2387,6 +2417,10 @@ msgstr "确认搜索内容拼写是否正确。"
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
 msgstr "请确定选中%s“设定为我的默认搜索提供程序”%s"
 
+msgctxt "directions"
+msgid "Make sure your search is spelled correctly."
+msgstr ""
+
 msgid "Malaysia"
 msgstr "马来西亚"
 
@@ -2602,6 +2636,10 @@ msgctxt "forecast"
 msgid "NW"
 msgstr "西北风"
 
+msgctxt "directions"
+msgid "Navigate in"
+msgstr ""
+
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
 msgstr "附近"
@@ -2660,6 +2698,10 @@ msgctxt "noresults"
 msgid "No %s found for %s%s%s."
 msgstr "没有找到与 %2$s%3$s%4$s 相关的%1$s。"
 
+msgctxt "directions"
+msgid "No Available Routes"
+msgstr ""
+
 msgid "No More Photos"
 msgstr "没有其他图片了"
 
@@ -2682,6 +2724,10 @@ msgctxt "safe search"
 msgid "No adult content"
 msgstr "不显示成人内容"
 
+msgctxt "directions"
+msgid "No available routes between these locations."
+msgstr ""
+
 msgctxt "safe search"
 msgid "No explicit images or videos"
 msgstr "不显示色情、暴力的图片和视频"
@@ -2696,6 +2742,10 @@ msgstr "找不到结果"
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
 msgstr "没有找到与 %s%s%s 相关的网页。"
+
+msgctxt "directions"
+msgid "No results found."
+msgstr ""
 
 msgctxt "new user poll"
 msgid "No thanks."
@@ -3932,6 +3982,10 @@ msgctxt "settings"
 msgid "Show links to instructions for how to add DuckDuckGo to your browser"
 msgstr "显示如何将 DuckDuckGo 添加到浏览器"
 
+msgctxt "directions"
+msgid "Show map"
+msgstr ""
+
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
 msgstr "在新标签页展示浏览最频繁的链接"
@@ -3965,6 +4019,10 @@ msgstr "显示密语"
 msgctxt "settings"
 msgid "Show sign up form for the DuckDuckGo privacy newsletter"
 msgstr "显示 DuckDuckGo 隐私简报订阅表"
+
+msgctxt "directions"
+msgid "Show steps"
+msgstr ""
 
 #. http://i.imgur.com/94erFcS.png
 msgctxt "settings"
@@ -4191,6 +4249,10 @@ msgstr "自动生成口令"
 msgctxt "settings"
 msgid "Suggest different phrase"
 msgstr "重新生成口令"
+
+msgctxt "directions"
+msgid "Suggestions:"
+msgstr ""
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4460,6 +4522,10 @@ msgstr "深受全球%s数百万用户%s信赖"
 msgid "Try a search!"
 msgstr "尝试搜索！"
 
+msgctxt "directions"
+msgid "Try adding a city, state, or postal code."
+msgstr ""
+
 msgctxt "noresults"
 msgid "Try different keywords."
 msgstr "尝试其他关键词。"
@@ -4631,6 +4697,10 @@ msgstr "在Firefox中使用"
 msgid "Use in Safari"
 msgstr "在Safari中使用"
 
+msgctxt "directions"
+msgid "Via"
+msgstr ""
+
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
@@ -4683,6 +4753,10 @@ msgstr "西风"
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
 msgstr "正在定位..."
+
+msgctxt "directions"
+msgid "Walking"
+msgstr ""
 
 msgctxt "size"
 msgid "Wallpaper"
@@ -5060,6 +5134,10 @@ msgstr "YouTube 隐私警告"
 msgctxt "video-license"
 msgid "YouTube Standard"
 msgstr "YouTube 标准"
+
+msgctxt "directions"
+msgid "Your Location"
+msgstr ""
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"

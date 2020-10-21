@@ -211,6 +211,10 @@ msgstr "Føj DuckDuckGo til %s"
 msgid "Add a %s search box to your site!"
 msgstr "Tilføj et %s søgefelt til din hjemmeside!"
 
+msgctxt "directions"
+msgid "Add a starting point and destination to find a route."
+msgstr ""
+
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
 "secure connections, and more — all for free."
@@ -583,7 +587,10 @@ msgstr "Gennemse som normalt"
 msgid ""
 "Browse as usual while we add privacy protection. We bundled our search "
 "engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr "Søg som normalt, så sørger vi for at beskytte dit privatliv. Vi har sammenlagt vores søgemaskine, tracker-blokering og krypteringshåndhæver i én %s%s udvidelse %s."
+msgstr ""
+"Søg som normalt, så sørger vi for at beskytte dit privatliv. Vi har "
+"sammenlagt vores søgemaskine, tracker-blokering og krypteringshåndhæver i én "
+"%s%s udvidelse %s."
 
 msgid ""
 "Browse as usual, and we'll take care of the rest. We bundled our search "
@@ -1241,6 +1248,10 @@ msgstr "Vidste du, at du kan %stilpasse%s DuckDuckGo? "
 msgid "Did you mean %s?"
 msgstr "Mente du %s?"
 
+msgctxt "directions"
+msgid "Directions"
+msgstr ""
+
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
@@ -1314,6 +1325,10 @@ msgstr "Træk %sDenne Knap%s ovenpå hjem-ikonet:"
 
 #. Instant Answer Tab Name
 msgid "Drinks"
+msgstr ""
+
+msgctxt "directions"
+msgid "Driving"
 msgstr ""
 
 #. This is the DDG version of "Google it", meaning "search it".
@@ -1468,11 +1483,19 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "Indtast en kode-sætning"
 
+msgctxt "maps_directions"
+msgid "Enter start location"
+msgstr ""
+
 #. Alias=pseudônimo: pt_pt
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr ""
 "Indtast følgende detaljer: %sNavn%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
+
+msgctxt "maps_directions"
+msgid "Enter your destination"
+msgstr ""
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
@@ -1526,6 +1549,10 @@ msgstr "Udvidelser & mere"
 msgctxt "size"
 msgid "Extra Large"
 msgstr "Ekstra stor"
+
+msgctxt "directions"
+msgid "Fastest Route"
+msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1817,6 +1844,10 @@ msgstr "Skjul de mest besøgte sider"
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "Skjul adgangskode"
+
+msgctxt "directions"
+msgid "Hide steps"
+msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -2378,6 +2409,10 @@ msgstr "Vær sikker på, at alle ord er stavet korrekt."
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
 msgstr "Husk at vælge %s\"Gør denne til min standardsøgemaskine\"%s"
 
+msgctxt "directions"
+msgid "Make sure your search is spelled correctly."
+msgstr ""
+
 msgid "Malaysia"
 msgstr ""
 
@@ -2593,6 +2628,10 @@ msgctxt "forecast"
 msgid "NW"
 msgstr "NV"
 
+msgctxt "directions"
+msgid "Navigate in"
+msgstr ""
+
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
 msgstr "I nærheden"
@@ -2651,6 +2690,10 @@ msgctxt "noresults"
 msgid "No %s found for %s%s%s."
 msgstr "Ingen %s  fundet for %s%s%s."
 
+msgctxt "directions"
+msgid "No Available Routes"
+msgstr ""
+
 msgid "No More Photos"
 msgstr "Ikke flere fotos"
 
@@ -2673,6 +2716,10 @@ msgctxt "safe search"
 msgid "No adult content"
 msgstr "Intet voksen-indhold"
 
+msgctxt "directions"
+msgid "No available routes between these locations."
+msgstr ""
+
 msgctxt "safe search"
 msgid "No explicit images or videos"
 msgstr "Ingen eksplicitte billeder eller videoer"
@@ -2687,6 +2734,10 @@ msgstr "Ingen resultater"
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
 msgstr "Ingen resultater blev fundet for %s%s%s."
+
+msgctxt "directions"
+msgid "No results found."
+msgstr ""
 
 msgctxt "new user poll"
 msgid "No thanks."
@@ -3913,6 +3964,10 @@ msgstr ""
 "Vis links til instruktioner om hvordan du tilføjer DuckDuckGo til din "
 "browser."
 
+msgctxt "directions"
+msgid "Show map"
+msgstr ""
+
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
 msgstr "Vis mest besøgte links i ny fane"
@@ -3949,6 +4004,10 @@ msgstr "Vis Adgangskode"
 msgctxt "settings"
 msgid "Show sign up form for the DuckDuckGo privacy newsletter"
 msgstr "Vis tilmeldingsformularen for DuckDuckGo's nyhedsbrev om privatliv"
+
+msgctxt "directions"
+msgid "Show steps"
+msgstr ""
 
 #. http://i.imgur.com/94erFcS.png
 msgctxt "settings"
@@ -4178,6 +4237,10 @@ msgstr "Foreslå en adgangskode"
 msgctxt "settings"
 msgid "Suggest different phrase"
 msgstr "Foreslå et andet udtryk"
+
+msgctxt "directions"
+msgid "Suggestions:"
+msgstr ""
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4454,6 +4517,10 @@ msgstr "%sMillioner%s over hele verden stoler på os"
 msgid "Try a search!"
 msgstr "Prøv at søge!"
 
+msgctxt "directions"
+msgid "Try adding a city, state, or postal code."
+msgstr ""
+
 msgctxt "noresults"
 msgid "Try different keywords."
 msgstr "Prøv andre nøgleord"
@@ -4621,6 +4688,10 @@ msgstr "Brug i Firefox"
 msgid "Use in Safari"
 msgstr "Anvend i Safari"
 
+msgctxt "directions"
+msgid "Via"
+msgstr ""
+
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
@@ -4676,6 +4747,10 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
+msgstr ""
+
+msgctxt "directions"
+msgid "Walking"
 msgstr ""
 
 msgctxt "size"
@@ -5074,6 +5149,10 @@ msgstr "Advarsel fra YouTube vedr. privatlivsindstillinger"
 
 msgctxt "video-license"
 msgid "YouTube Standard"
+msgstr ""
+
+msgctxt "directions"
+msgid "Your Location"
 msgstr ""
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.

@@ -194,7 +194,9 @@ msgstr "Добавете DuckDuckGo"
 
 msgid ""
 "Add DuckDuckGo Privacy Essentials to your browser for free with one download:"
-msgstr "Добавете безплатно DuckDuckGo Privacy Essentials към вашия браузър с едно изтегляне:"
+msgstr ""
+"Добавете безплатно DuckDuckGo Privacy Essentials към вашия браузър с едно "
+"изтегляне:"
 
 msgid "Add DuckDuckGo as a search engine"
 msgstr "Добавете DuckDuckGo като търсеща машина"
@@ -206,6 +208,10 @@ msgstr "Добави DuckDuckGo към %s"
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "Добави %s поле за търсене в сайта си!"
+
+msgctxt "directions"
+msgid "Add a starting point and destination to find a route."
+msgstr ""
 
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
@@ -575,7 +581,10 @@ msgstr ""
 msgid ""
 "Browse as usual while we add privacy protection. We bundled our search "
 "engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr "Можете да сърфирате както обикновено, а ние ще добавим защита на поверителността. Обединихме нашата търсачка, инструменти за блокиране на проследяването и задължително криптиране в едно %s%s Разширение%s."
+msgstr ""
+"Можете да сърфирате както обикновено, а ние ще добавим защита на "
+"поверителността. Обединихме нашата търсачка, инструменти за блокиране на "
+"проследяването и задължително криптиране в едно %s%s Разширение%s."
 
 msgid ""
 "Browse as usual, and we'll take care of the rest. We bundled our search "
@@ -1231,6 +1240,10 @@ msgstr "Знаехте ли, че можете да %sперсонализира
 msgid "Did you mean %s?"
 msgstr "Може би имахте предвид %s?"
 
+msgctxt "directions"
+msgid "Directions"
+msgstr ""
+
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
@@ -1305,6 +1318,10 @@ msgstr "Плъзнете %sТози Бутон%s на върха на икона
 #. Instant Answer Tab Name
 msgid "Drinks"
 msgstr "Напитки"
+
+msgctxt "directions"
+msgid "Driving"
+msgstr ""
 
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
@@ -1456,10 +1473,18 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "Въведете парола"
 
+msgctxt "maps_directions"
+msgid "Enter start location"
+msgstr ""
+
 #. Alias=pseudônimo: pt_pt
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr "%sиме%s: DuckDuckGo%s име на сайт%s: %s псевдоним%s: д%s"
+
+msgctxt "maps_directions"
+msgid "Enter your destination"
+msgstr ""
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
@@ -1512,6 +1537,10 @@ msgstr "Разширения и Още"
 
 msgctxt "size"
 msgid "Extra Large"
+msgstr ""
+
+msgctxt "directions"
+msgid "Fastest Route"
 msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
@@ -1806,6 +1835,10 @@ msgstr ""
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "Скрий парола"
+
+msgctxt "directions"
+msgid "Hide steps"
+msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -2365,6 +2398,10 @@ msgstr ""
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
 msgstr "Уверете се да проверите %s\"Направи това моята настояща търсачка\"%s"
 
+msgctxt "directions"
+msgid "Make sure your search is spelled correctly."
+msgstr ""
+
 msgid "Malaysia"
 msgstr "Малайзия"
 
@@ -2580,6 +2617,10 @@ msgctxt "forecast"
 msgid "NW"
 msgstr ""
 
+msgctxt "directions"
+msgid "Navigate in"
+msgstr ""
+
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
 msgstr "Наблизо"
@@ -2638,6 +2679,10 @@ msgctxt "noresults"
 msgid "No %s found for %s%s%s."
 msgstr ""
 
+msgctxt "directions"
+msgid "No Available Routes"
+msgstr ""
+
 msgid "No More Photos"
 msgstr ""
 
@@ -2660,6 +2705,10 @@ msgctxt "safe search"
 msgid "No adult content"
 msgstr "Без съдържание за възрастни"
 
+msgctxt "directions"
+msgid "No available routes between these locations."
+msgstr ""
+
 msgctxt "safe search"
 msgid "No explicit images or videos"
 msgstr ""
@@ -2673,6 +2722,10 @@ msgstr ""
 
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
+msgstr ""
+
+msgctxt "directions"
+msgid "No results found."
 msgstr ""
 
 msgctxt "new user poll"
@@ -3902,6 +3955,10 @@ msgid "Show links to instructions for how to add DuckDuckGo to your browser"
 msgstr ""
 "Покажи препратки до инструкции как да добавиш DuckDuckGo в твоя браузър"
 
+msgctxt "directions"
+msgid "Show map"
+msgstr ""
+
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
 msgstr ""
@@ -3936,6 +3993,10 @@ msgstr "Покажи парола"
 
 msgctxt "settings"
 msgid "Show sign up form for the DuckDuckGo privacy newsletter"
+msgstr ""
+
+msgctxt "directions"
+msgid "Show steps"
 msgstr ""
 
 #. http://i.imgur.com/94erFcS.png
@@ -4163,6 +4224,10 @@ msgstr "Предложи нова парола"
 msgctxt "settings"
 msgid "Suggest different phrase"
 msgstr "Предложи друга фраза"
+
+msgctxt "directions"
+msgid "Suggestions:"
+msgstr ""
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4432,6 +4497,10 @@ msgstr ""
 msgid "Try a search!"
 msgstr "Опитайте търсене!"
 
+msgctxt "directions"
+msgid "Try adding a city, state, or postal code."
+msgstr ""
+
 msgctxt "noresults"
 msgid "Try different keywords."
 msgstr ""
@@ -4605,6 +4674,10 @@ msgstr "Използвайте във Firefox"
 msgid "Use in Safari"
 msgstr "Използвай в Safari"
 
+msgctxt "directions"
+msgid "Via"
+msgstr ""
+
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
@@ -4658,6 +4731,10 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
+msgstr ""
+
+msgctxt "directions"
+msgid "Walking"
 msgstr ""
 
 msgctxt "size"
@@ -5047,6 +5124,10 @@ msgstr "Предупреждение за Поверителността на Yo
 
 msgctxt "video-license"
 msgid "YouTube Standard"
+msgstr ""
+
+msgctxt "directions"
+msgid "Your Location"
 msgstr ""
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.

@@ -194,7 +194,9 @@ msgstr "DuckDuckGo를 추가하기"
 
 msgid ""
 "Add DuckDuckGo Privacy Essentials to your browser for free with one download:"
-msgstr "무료 다운로드 한 번으로 브라우저에 DuckDuckGo Privacy Essentials를 추가하세요:"
+msgstr ""
+"무료 다운로드 한 번으로 브라우저에 DuckDuckGo Privacy Essentials를 추가하세"
+"요:"
 
 msgid "Add DuckDuckGo as a search engine"
 msgstr "검색 엔진으로 DuckDuckGo를 추가하기"
@@ -206,6 +208,10 @@ msgstr "%s용 DuckDuckGo 확장 기능 추가"
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "%s 검색 상자를 여러분의 사이트에 추가하세요!"
+
+msgctxt "directions"
+msgid "Add a starting point and destination to find a route."
+msgstr ""
 
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
@@ -578,7 +584,10 @@ msgstr "평소처럼 브라우저를 이용하세요"
 msgid ""
 "Browse as usual while we add privacy protection. We bundled our search "
 "engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr "평소처럼 인터넷을 이용하세요. 개인 정보는 저희가 보호해 드릴게요. 하나의 %s%s 확장 프로그램%s으로 검색 엔진, 추적 차단, 암호화 보호 강화 기능을 이용할 수 있습니다."
+msgstr ""
+"평소처럼 인터넷을 이용하세요. 개인 정보는 저희가 보호해 드릴게요. 하나의 %s"
+"%s 확장 프로그램%s으로 검색 엔진, 추적 차단, 암호화 보호 강화 기능을 이용할 "
+"수 있습니다."
 
 msgid ""
 "Browse as usual, and we'll take care of the rest. We bundled our search "
@@ -1228,6 +1237,10 @@ msgstr "DuckDuckGo를 %s마음대로 꾸밀 수%s 있다는 것을 아셨나요?
 msgid "Did you mean %s?"
 msgstr "혹시 %s를 찾으시나요?"
 
+msgctxt "directions"
+msgid "Directions"
+msgstr ""
+
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
@@ -1303,6 +1316,10 @@ msgstr "%s이 버튼%s을 상단 홈 아이콘으로 드래그하세요:"
 #. Instant Answer Tab Name
 msgid "Drinks"
 msgstr "음료"
+
+msgctxt "directions"
+msgid "Driving"
+msgstr ""
 
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
@@ -1456,10 +1473,18 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "새 암호를 입력하세요"
 
+msgctxt "maps_directions"
+msgid "Enter start location"
+msgstr ""
+
 #. Alias=pseudônimo: pt_pt
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr "다음 내용을 적어주세요: %s이름%s: DuckDuckGo%s URL%s: %s 닉네임%s: d%s"
+
+msgctxt "maps_directions"
+msgid "Enter your destination"
+msgstr ""
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
@@ -1513,6 +1538,10 @@ msgstr "확장 기능 및 기타"
 msgctxt "size"
 msgid "Extra Large"
 msgstr "특대"
+
+msgctxt "directions"
+msgid "Fastest Route"
+msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1802,6 +1831,10 @@ msgstr "가장 많이 방문한 사이트 목록 숨기기"
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "암호 숨기기"
+
+msgctxt "directions"
+msgid "Hide steps"
+msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -2363,6 +2396,10 @@ msgstr "맞춤법에 맞는 단어인지 확인해 주세요."
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
 msgstr "%s\"이 검색 제공자를 기본값으로 설정\"%s이 체크 되었는지 확인하세요"
 
+msgctxt "directions"
+msgid "Make sure your search is spelled correctly."
+msgstr ""
+
 msgid "Malaysia"
 msgstr "말레이시아"
 
@@ -2578,6 +2615,10 @@ msgctxt "forecast"
 msgid "NW"
 msgstr "북서"
 
+msgctxt "directions"
+msgid "Navigate in"
+msgstr ""
+
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
 msgstr "가까운"
@@ -2636,6 +2677,10 @@ msgctxt "noresults"
 msgid "No %s found for %s%s%s."
 msgstr "%s%s%s에 대한 검색 %s가 없습니다"
 
+msgctxt "directions"
+msgid "No Available Routes"
+msgstr ""
+
 msgid "No More Photos"
 msgstr "사진 더 없음"
 
@@ -2658,6 +2703,10 @@ msgctxt "safe search"
 msgid "No adult content"
 msgstr "성인용 컨텐츠 금지"
 
+msgctxt "directions"
+msgid "No available routes between these locations."
+msgstr ""
+
 msgctxt "safe search"
 msgid "No explicit images or videos"
 msgstr "노골적인 이미지나 동영상이 없음"
@@ -2672,6 +2721,10 @@ msgstr "결과 없음"
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
 msgstr "%s%s%s에 대한 검색 결과가 없습니다."
+
+msgctxt "directions"
+msgid "No results found."
+msgstr ""
 
 msgctxt "new user poll"
 msgid "No thanks."
@@ -3898,6 +3951,10 @@ msgid "Show links to instructions for how to add DuckDuckGo to your browser"
 msgstr ""
 "사용 중인 브라우저에 DuckDuckGo를 추가하는 방법을 안내하는 메시지 보여주기"
 
+msgctxt "directions"
+msgid "Show map"
+msgstr ""
+
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
 msgstr ""
@@ -3931,6 +3988,10 @@ msgstr "암호 보여주기"
 msgctxt "settings"
 msgid "Show sign up form for the DuckDuckGo privacy newsletter"
 msgstr "DuckDuckGo 개인정보 보호 뉴스레터 등록 양식 보여주기"
+
+msgctxt "directions"
+msgid "Show steps"
+msgstr ""
 
 #. http://i.imgur.com/94erFcS.png
 msgctxt "settings"
@@ -4158,6 +4219,10 @@ msgstr "암호 제안"
 msgctxt "settings"
 msgid "Suggest different phrase"
 msgstr "설정"
+
+msgctxt "directions"
+msgid "Suggestions:"
+msgstr ""
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4430,6 +4495,10 @@ msgstr "전 세계 %s수백만%s 명의 사용자가 신뢰합니다"
 msgid "Try a search!"
 msgstr "검색해 보세요!"
 
+msgctxt "directions"
+msgid "Try adding a city, state, or postal code."
+msgstr ""
+
 msgctxt "noresults"
 msgid "Try different keywords."
 msgstr "다른 검색어를 사용해 보세요."
@@ -4598,6 +4667,10 @@ msgstr "Firefox에서 사용"
 msgid "Use in Safari"
 msgstr "Safari에서 사용하기"
 
+msgctxt "directions"
+msgid "Via"
+msgstr ""
+
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
@@ -4651,6 +4724,10 @@ msgstr "서"
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
+msgstr ""
+
+msgctxt "directions"
+msgid "Walking"
 msgstr ""
 
 msgctxt "size"
@@ -5039,6 +5116,10 @@ msgstr "YouTube 개인정보 보호 관련 주의"
 msgctxt "video-license"
 msgid "YouTube Standard"
 msgstr "YouTube 표준"
+
+msgctxt "directions"
+msgid "Your Location"
+msgstr ""
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"

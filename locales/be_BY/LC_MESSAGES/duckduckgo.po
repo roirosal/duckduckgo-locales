@@ -200,7 +200,9 @@ msgstr "Дадаць DuckDuckGo"
 
 msgid ""
 "Add DuckDuckGo Privacy Essentials to your browser for free with one download:"
-msgstr "Усталюйце ў браўзер набор інструментаў DuckDuckGo Privacy Essentials; у адной спампоўцы вы атрымаеце:"
+msgstr ""
+"Усталюйце ў браўзер набор інструментаў DuckDuckGo Privacy Essentials; у "
+"адной спампоўцы вы атрымаеце:"
 
 msgid "Add DuckDuckGo as a search engine"
 msgstr "Дадаць DuckDuckGo у якасці пашукавай сістэмы"
@@ -212,6 +214,10 @@ msgstr "Дадайце DuckDuckGo да %s"
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "Дадайце %s  пошук на свой сайт!"
+
+msgctxt "directions"
+msgid "Add a starting point and destination to find a route."
+msgstr ""
 
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
@@ -585,7 +591,11 @@ msgstr "Праглядайце вэб-старонкі як звычайна"
 msgid ""
 "Browse as usual while we add privacy protection. We bundled our search "
 "engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr "Працуйце ў браўзеры як звычайна, а мы дададзім у яго інструменты для абароны прыватнасці. Мы аб'ядналі ў адно %s%s пашырэнне%s сістэму пошуку, блакіроўшчык сродкаў адсочвання і прымусовае пераключэнне на шыфраванае злучэнне."
+msgstr ""
+"Працуйце ў браўзеры як звычайна, а мы дададзім у яго інструменты для абароны "
+"прыватнасці. Мы аб'ядналі ў адно %s%s пашырэнне%s сістэму пошуку, "
+"блакіроўшчык сродкаў адсочвання і прымусовае пераключэнне на шыфраванае "
+"злучэнне."
 
 msgid ""
 "Browse as usual, and we'll take care of the rest. We bundled our search "
@@ -1240,6 +1250,10 @@ msgstr "Вы ведалі, што можаце %sнастроіць%s DuckDuckGo
 msgid "Did you mean %s?"
 msgstr "Вы маеце на ўвазе %s?"
 
+msgctxt "directions"
+msgid "Directions"
+msgstr ""
+
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
@@ -1314,6 +1328,10 @@ msgstr "Перацягнеце %sГэту кнопку%s паўзверх зна
 #. Instant Answer Tab Name
 msgid "Drinks"
 msgstr "Напоі"
+
+msgctxt "directions"
+msgid "Driving"
+msgstr ""
 
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
@@ -1466,11 +1484,19 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "Увядзіце парольную фразу"
 
+msgctxt "maps_directions"
+msgid "Enter start location"
+msgstr ""
+
 #. Alias=pseudônimo: pt_pt
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr ""
 "Увядзіце наступныя дадзеныя: %sName%s: DuckDuckGo%s URL%s: %s Alias%s:d%s"
+
+msgctxt "maps_directions"
+msgid "Enter your destination"
+msgstr ""
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
@@ -1525,6 +1551,10 @@ msgstr "Пашырэнні і шмат што іншае"
 msgctxt "size"
 msgid "Extra Large"
 msgstr "Вельмі вялікі"
+
+msgctxt "directions"
+msgid "Fastest Route"
+msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1817,6 +1847,10 @@ msgstr "Схаваць найболей наведвальныя сайты"
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "Схаваць парольную фразу"
+
+msgctxt "directions"
+msgid "Hide steps"
+msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -2385,6 +2419,10 @@ msgstr "Пераканайцеся, што ўсе словы напісаныя 
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
 msgstr "Не забудзьцеся пазначыць %s\"Make this my default search provider\"%s"
 
+msgctxt "directions"
+msgid "Make sure your search is spelled correctly."
+msgstr ""
+
 msgid "Malaysia"
 msgstr "Малайзія"
 
@@ -2600,6 +2638,10 @@ msgctxt "forecast"
 msgid "NW"
 msgstr "ПнЗ"
 
+msgctxt "directions"
+msgid "Navigate in"
+msgstr ""
+
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
 msgstr "Побач"
@@ -2658,6 +2700,10 @@ msgctxt "noresults"
 msgid "No %s found for %s%s%s."
 msgstr "Ніводнага %s не знойдзена %s%s%s."
 
+msgctxt "directions"
+msgid "No Available Routes"
+msgstr ""
+
 msgid "No More Photos"
 msgstr "Больш не даступных фатаграфій"
 
@@ -2680,6 +2726,10 @@ msgctxt "safe search"
 msgid "No adult content"
 msgstr "Няма ўтрымання для дарослых"
 
+msgctxt "directions"
+msgid "No available routes between these locations."
+msgstr ""
+
 msgctxt "safe search"
 msgid "No explicit images or videos"
 msgstr "Няма відавочных выяў ці відэа"
@@ -2694,6 +2744,10 @@ msgstr "Вынікаў няма"
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
 msgstr "Не знойдзена вынікаў для %s%s%s."
+
+msgctxt "directions"
+msgid "No results found."
+msgstr ""
 
 msgctxt "new user poll"
 msgid "No thanks."
@@ -3920,6 +3974,10 @@ msgctxt "settings"
 msgid "Show links to instructions for how to add DuckDuckGo to your browser"
 msgstr "Паказваць спасылкі на інструкцыі па даданні DuckDuckGo у ваш браўзар"
 
+msgctxt "directions"
+msgid "Show map"
+msgstr ""
+
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
 msgstr "Паказаць найбольш наведвальныя спасылкі на новай картцы"
@@ -3955,6 +4013,10 @@ msgstr "Паказаць парольную фразу"
 msgctxt "settings"
 msgid "Show sign up form for the DuckDuckGo privacy newsletter"
 msgstr "Паказаць форму рэгістрацыі для бюлетэня прыватнасці DuckDuckGo"
+
+msgctxt "directions"
+msgid "Show steps"
+msgstr ""
 
 #. http://i.imgur.com/94erFcS.png
 msgctxt "settings"
@@ -4184,6 +4246,10 @@ msgstr "Прапанаваць парольную фразу"
 msgctxt "settings"
 msgid "Suggest different phrase"
 msgstr "Прапанаваць іншую фразу"
+
+msgctxt "directions"
+msgid "Suggestions:"
+msgstr ""
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4460,6 +4526,10 @@ msgstr "Нам давяраюць %sмільёны%s ва ўсім свеце"
 msgid "Try a search!"
 msgstr "Паспрабуйце пошук!"
 
+msgctxt "directions"
+msgid "Try adding a city, state, or postal code."
+msgstr ""
+
 msgctxt "noresults"
 msgid "Try different keywords."
 msgstr "Паспрабуйце іншыя словы."
@@ -4630,6 +4700,10 @@ msgstr "Скарыстаць у Firefox"
 msgid "Use in Safari"
 msgstr "Скарыстаць у Safari"
 
+msgctxt "directions"
+msgid "Via"
+msgstr ""
+
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
@@ -4683,6 +4757,10 @@ msgstr "З"
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
+msgstr ""
+
+msgctxt "directions"
+msgid "Walking"
 msgstr ""
 
 msgctxt "size"
@@ -5078,6 +5156,10 @@ msgstr "Папярэджанне пра прыватнасць YouTube"
 msgctxt "video-license"
 msgid "YouTube Standard"
 msgstr "Стандартная ліцэнзія YouTube"
+
+msgctxt "directions"
+msgid "Your Location"
+msgstr ""
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"

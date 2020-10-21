@@ -194,7 +194,9 @@ msgstr "Προσθήκη του DuckDuckGo"
 
 msgid ""
 "Add DuckDuckGo Privacy Essentials to your browser for free with one download:"
-msgstr "Προσθέστε το DuckDuckGo Privacy Essentials στο πρόγραμμα περιήγησής σας δωρεάν, με μία λήψη:"
+msgstr ""
+"Προσθέστε το DuckDuckGo Privacy Essentials στο πρόγραμμα περιήγησής σας "
+"δωρεάν, με μία λήψη:"
 
 msgid "Add DuckDuckGo as a search engine"
 msgstr "Προσθέστε το DuckDuckGo ως μηχανή αναζήτησης"
@@ -206,6 +208,10 @@ msgstr "Προσθήκη του DuckDuckGo στο %s"
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "Προσθέστε ένα πλαίσιο αναζήτησης %s στον ιστότοπό σας!"
+
+msgctxt "directions"
+msgid "Add a starting point and destination to find a route."
+msgstr ""
 
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
@@ -580,7 +586,10 @@ msgstr "Περιήγηση ως συνήθως"
 msgid ""
 "Browse as usual while we add privacy protection. We bundled our search "
 "engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr "Περιηγηθείτε ως συνήθως καθώς προσθέτουμε προστασία προσωπικών δεδομένων. Ομαδοποιήσαμε τη μηχανή αναζήτησής μας, το πρόγραμμα αποκλεισμού παρακολούθησης και τον ενισχυτή κρυπτογράφησης σε μία %s%s Επέκταση%s."
+msgstr ""
+"Περιηγηθείτε ως συνήθως καθώς προσθέτουμε προστασία προσωπικών δεδομένων. "
+"Ομαδοποιήσαμε τη μηχανή αναζήτησής μας, το πρόγραμμα αποκλεισμού "
+"παρακολούθησης και τον ενισχυτή κρυπτογράφησης σε μία %s%s Επέκταση%s."
 
 msgid ""
 "Browse as usual, and we'll take care of the rest. We bundled our search "
@@ -1253,6 +1262,10 @@ msgstr "Το ξέρατε ότι μπορείτε να %sπροσαρμόσετ�
 msgid "Did you mean %s?"
 msgstr "Μήπως εννοείτε %s;"
 
+msgctxt "directions"
+msgid "Directions"
+msgstr ""
+
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
@@ -1328,6 +1341,10 @@ msgstr ""
 #. Instant Answer Tab Name
 msgid "Drinks"
 msgstr "Ποτά"
+
+msgctxt "directions"
+msgid "Driving"
+msgstr ""
 
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
@@ -1484,12 +1501,20 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "Εισαγωγή συνθηματικής φράσης"
 
+msgctxt "maps_directions"
+msgid "Enter start location"
+msgstr ""
+
 #. Alias=pseudônimo: pt_pt
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr ""
 "Πληκτρολογήστε τα ακόλουθα στοιχεία: %sName%s: DuckDuckGo%s URL%s: %s Alias"
 "%s: d%s"
+
+msgctxt "maps_directions"
+msgid "Enter your destination"
+msgstr ""
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
@@ -1544,6 +1569,10 @@ msgstr "Επεκτάσεις και άλλα"
 msgctxt "size"
 msgid "Extra Large"
 msgstr "Πολύ Μεγάλο"
+
+msgctxt "directions"
+msgid "Fastest Route"
+msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1841,6 +1870,10 @@ msgstr ""
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "Απόκρυψη φράσης κλειδιού"
+
+msgctxt "directions"
+msgid "Hide steps"
+msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -2410,6 +2443,10 @@ msgstr ""
 "Βεβαιωθείτε ότι επιλέξατε %s\"Όρισε αυτόν ώς προεπιλεγμένο παροχέα "
 "αναζήτησής μου\"%s"
 
+msgctxt "directions"
+msgid "Make sure your search is spelled correctly."
+msgstr ""
+
 msgid "Malaysia"
 msgstr "Μαλαισία"
 
@@ -2625,6 +2662,10 @@ msgctxt "forecast"
 msgid "NW"
 msgstr ""
 
+msgctxt "directions"
+msgid "Navigate in"
+msgstr ""
+
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
 msgstr "Κοντά"
@@ -2683,6 +2724,10 @@ msgctxt "noresults"
 msgid "No %s found for %s%s%s."
 msgstr ""
 
+msgctxt "directions"
+msgid "No Available Routes"
+msgstr ""
+
 msgid "No More Photos"
 msgstr "Δεν υπάρχουν περισσότερες φωτογραφίες"
 
@@ -2705,6 +2750,10 @@ msgctxt "safe search"
 msgid "No adult content"
 msgstr "Καθόλου ακατάλληλο περιεχόμενο."
 
+msgctxt "directions"
+msgid "No available routes between these locations."
+msgstr ""
+
 msgctxt "safe search"
 msgid "No explicit images or videos"
 msgstr "Καθόλου πρόστυχες εικόνες ή βίντεο"
@@ -2718,6 +2767,10 @@ msgstr ""
 
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
+msgstr ""
+
+msgctxt "directions"
+msgid "No results found."
 msgstr ""
 
 msgctxt "new user poll"
@@ -3962,6 +4015,10 @@ msgid "Show links to instructions for how to add DuckDuckGo to your browser"
 msgstr ""
 "Εμφάνιση οδηγιών για το πως να προθέσετε το DuckDuckGo στον περιηγητή σας"
 
+msgctxt "directions"
+msgid "Show map"
+msgstr ""
+
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
 msgstr ""
@@ -4003,6 +4060,10 @@ msgid "Show sign up form for the DuckDuckGo privacy newsletter"
 msgstr ""
 "Εμφάνισε το έντυπο εγγραφής για το ενημερωτικό δελτίο απορρήτου του "
 "DuckDuckGo"
+
+msgctxt "directions"
+msgid "Show steps"
+msgstr ""
 
 #. http://i.imgur.com/94erFcS.png
 msgctxt "settings"
@@ -4231,6 +4292,10 @@ msgstr "Πρόταση φράσης κλειδιού"
 msgctxt "settings"
 msgid "Suggest different phrase"
 msgstr "Προτείνετε διαφορετική φράση"
+
+msgctxt "directions"
+msgid "Suggestions:"
+msgstr ""
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4506,6 +4571,10 @@ msgstr "Το εμπιστεύονται %sεκατομμύρια%s σε όλο �
 msgid "Try a search!"
 msgstr "Δοκίμασε μια αναζήτηση!"
 
+msgctxt "directions"
+msgid "Try adding a city, state, or postal code."
+msgstr ""
+
 msgctxt "noresults"
 msgid "Try different keywords."
 msgstr ""
@@ -4686,6 +4755,10 @@ msgstr "Χρήση στον Firefox"
 msgid "Use in Safari"
 msgstr "Χρησιμοποιήστε το Safari"
 
+msgctxt "directions"
+msgid "Via"
+msgstr ""
+
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
@@ -4742,6 +4815,10 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
+msgstr ""
+
+msgctxt "directions"
+msgid "Walking"
 msgstr ""
 
 msgctxt "size"
@@ -5146,6 +5223,10 @@ msgstr "YouTube Προειδοποίηση προσωπικών δεδομένω
 msgctxt "video-license"
 msgid "YouTube Standard"
 msgstr "Τυπική Άδεια YouTube"
+
+msgctxt "directions"
+msgid "Your Location"
+msgstr ""
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"

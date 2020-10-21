@@ -195,7 +195,9 @@ msgstr "DuckDuckGo を追加する"
 
 msgid ""
 "Add DuckDuckGo Privacy Essentials to your browser for free with one download:"
-msgstr "DuckDuckGoプライバシーエッセンシャルは1度のダウンロードで、ブラウザに無料で追加できます："
+msgstr ""
+"DuckDuckGoプライバシーエッセンシャルは1度のダウンロードで、ブラウザに無料で追"
+"加できます："
 
 msgid "Add DuckDuckGo as a search engine"
 msgstr "DuckDuckGoを検索エンジンに追加する"
@@ -207,6 +209,10 @@ msgstr "%sにDuckDuckGoを追加"
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "あなたのサイトに%s検索ボックスを追加してください！"
+
+msgctxt "directions"
+msgid "Add a starting point and destination to find a route."
+msgstr ""
 
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
@@ -581,7 +587,10 @@ msgstr "いつものようにブラウズ"
 msgid ""
 "Browse as usual while we add privacy protection. We bundled our search "
 "engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr "DuckDuckGoなら普段どおりに閲覧しながら、プライバシー保護を強化できます。検索エンジン、トラッカーブロック、高度な暗号化機能を1つの%s%s 拡張機能%sにまとめました。"
+msgstr ""
+"DuckDuckGoなら普段どおりに閲覧しながら、プライバシー保護を強化できます。検索"
+"エンジン、トラッカーブロック、高度な暗号化機能を1つの%s%s 拡張機能%sにまとめ"
+"ました。"
 
 msgid ""
 "Browse as usual, and we'll take care of the rest. We bundled our search "
@@ -1234,6 +1243,10 @@ msgstr "DuckDuckGoを%sカスタマイズ%sできることは知っていまし�
 msgid "Did you mean %s?"
 msgstr "もしかして：%s"
 
+msgctxt "directions"
+msgid "Directions"
+msgstr ""
+
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
@@ -1309,6 +1322,10 @@ msgstr "%sこのボタン%sをホームアイコンの上にドラッグして�
 #. Instant Answer Tab Name
 msgid "Drinks"
 msgstr "飲み物"
+
+msgctxt "directions"
+msgid "Driving"
+msgstr ""
 
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
@@ -1462,12 +1479,20 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "パスフレーズを入力してください"
 
+msgctxt "maps_directions"
+msgid "Enter start location"
+msgstr ""
+
 #. Alias=pseudônimo: pt_pt
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr ""
 "以下の詳細を入力してください: %s名前%s: DuckDuckGo%s URL%s: %s エイリアス%s: "
 "d%s"
+
+msgctxt "maps_directions"
+msgid "Enter your destination"
+msgstr ""
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
@@ -1522,6 +1547,10 @@ msgstr "拡張機能 & その他"
 msgctxt "size"
 msgid "Extra Large"
 msgstr "極大"
+
+msgctxt "directions"
+msgid "Fastest Route"
+msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1817,6 +1846,10 @@ msgstr ""
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "パスフレーズを隠す"
+
+msgctxt "directions"
+msgid "Hide steps"
+msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -2379,6 +2412,10 @@ msgstr "すべての単語のスペルが正しいことを確認してくださ
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
 msgstr "%s\"既定の検索プロバイダにする\"%sをもう一度確認してください"
 
+msgctxt "directions"
+msgid "Make sure your search is spelled correctly."
+msgstr ""
+
 msgid "Malaysia"
 msgstr "マレーシア"
 
@@ -2594,6 +2631,10 @@ msgctxt "forecast"
 msgid "NW"
 msgstr "北西"
 
+msgctxt "directions"
+msgid "Navigate in"
+msgstr ""
+
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
 msgstr "近く"
@@ -2652,6 +2693,10 @@ msgctxt "noresults"
 msgid "No %s found for %s%s%s."
 msgstr "%sに %s%s%s に関するものはありません。"
 
+msgctxt "directions"
+msgid "No Available Routes"
+msgstr ""
+
 msgid "No More Photos"
 msgstr "これ以上写真はありません"
 
@@ -2674,6 +2719,10 @@ msgctxt "safe search"
 msgid "No adult content"
 msgstr "成人向けコンテンツを排除する"
 
+msgctxt "directions"
+msgid "No available routes between these locations."
+msgstr ""
+
 msgctxt "safe search"
 msgid "No explicit images or videos"
 msgstr "不適切な画像や動画を排除する"
@@ -2688,6 +2737,10 @@ msgstr "結果がありません"
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
 msgstr "%s%s%s に関する情報は見つかりませんでした。"
+
+msgctxt "directions"
+msgid "No results found."
+msgstr ""
 
 msgctxt "new user poll"
 msgid "No thanks."
@@ -3914,6 +3967,10 @@ msgctxt "settings"
 msgid "Show links to instructions for how to add DuckDuckGo to your browser"
 msgstr "ブラウザにDuckDuckGoを追加する方法へのリンクを表示する"
 
+msgctxt "directions"
+msgid "Show map"
+msgstr ""
+
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
 msgstr ""
@@ -3947,6 +4004,10 @@ msgstr "パスフレーズを表示"
 msgctxt "settings"
 msgid "Show sign up form for the DuckDuckGo privacy newsletter"
 msgstr "DuckDuckGoのプライバシーニュースレターへの登録フォームを表示する"
+
+msgctxt "directions"
+msgid "Show steps"
+msgstr ""
 
 #. http://i.imgur.com/94erFcS.png
 msgctxt "settings"
@@ -4175,6 +4236,10 @@ msgstr "パスフレーズをランダムに生成する"
 msgctxt "settings"
 msgid "Suggest different phrase"
 msgstr "他の語句を提案する"
+
+msgctxt "directions"
+msgid "Suggestions:"
+msgstr ""
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4448,6 +4513,10 @@ msgstr "世界中で%s数百万人%sが愛用"
 msgid "Try a search!"
 msgstr "検索を試そう!"
 
+msgctxt "directions"
+msgid "Try adding a city, state, or postal code."
+msgstr ""
+
 msgctxt "noresults"
 msgid "Try different keywords."
 msgstr "別のキーワードを試してみてください。"
@@ -4620,6 +4689,10 @@ msgstr "Firefoxで使用"
 msgid "Use in Safari"
 msgstr "Safariで使う"
 
+msgctxt "directions"
+msgid "Via"
+msgstr ""
+
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
@@ -4673,6 +4746,10 @@ msgstr "西"
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
+msgstr ""
+
+msgctxt "directions"
+msgid "Walking"
 msgstr ""
 
 msgctxt "size"
@@ -5068,6 +5145,10 @@ msgstr "YouTubeの匿名性に関する警告"
 msgctxt "video-license"
 msgid "YouTube Standard"
 msgstr "標準のYouTubeライセンス"
+
+msgctxt "directions"
+msgid "Your Location"
+msgstr ""
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"

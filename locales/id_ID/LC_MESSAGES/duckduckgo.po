@@ -197,7 +197,9 @@ msgstr "Tambahkan DuckDuckGo"
 
 msgid ""
 "Add DuckDuckGo Privacy Essentials to your browser for free with one download:"
-msgstr "Tambahkan DuckDuckGo Privacy Essentials ke browser Anda secara gratis dengan sekali unduh:"
+msgstr ""
+"Tambahkan DuckDuckGo Privacy Essentials ke browser Anda secara gratis dengan "
+"sekali unduh:"
 
 msgid "Add DuckDuckGo as a search engine"
 msgstr "Tambahkan DuckDuckGo sebagai mesin pencari"
@@ -209,6 +211,10 @@ msgstr "Tambahkan DuckDuckGo pada %s"
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "Buat sebuah kotak pencarian %s untuk website anda!"
+
+msgctxt "directions"
+msgid "Add a starting point and destination to find a route."
+msgstr ""
 
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
@@ -582,7 +588,10 @@ msgstr "Jelajahi Seperti Biasa"
 msgid ""
 "Browse as usual while we add privacy protection. We bundled our search "
 "engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr "Telusuri seperti biasa selagi kami menambahkan perlindungan privasi. Kami menggabungkan mesin pencarian, pemblokir pelacak, dan penegak enkripsi kami menjadi satu %s%s Ekstensi%s."
+msgstr ""
+"Telusuri seperti biasa selagi kami menambahkan perlindungan privasi. Kami "
+"menggabungkan mesin pencarian, pemblokir pelacak, dan penegak enkripsi kami "
+"menjadi satu %s%s Ekstensi%s."
 
 msgid ""
 "Browse as usual, and we'll take care of the rest. We bundled our search "
@@ -1234,6 +1243,10 @@ msgstr "Apakah kamu tahu kamu bisa %smenyesuaikan%s DuckDuckGo?"
 msgid "Did you mean %s?"
 msgstr "Mungkin maksud Anda adalah %s"
 
+msgctxt "directions"
+msgid "Directions"
+msgstr ""
+
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
@@ -1308,6 +1321,10 @@ msgstr "Seret %sTombol Ini%s ke atas ikon beranda:"
 #. Instant Answer Tab Name
 msgid "Drinks"
 msgstr "Minuman"
+
+msgctxt "directions"
+msgid "Driving"
+msgstr ""
 
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
@@ -1467,11 +1484,19 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "Masukkan frasa kata sandi"
 
+msgctxt "maps_directions"
+msgid "Enter start location"
+msgstr ""
+
 #. Alias=pseudônimo: pt_pt
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr ""
 "Masukkan rincian berikut: %sNama%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
+
+msgctxt "maps_directions"
+msgid "Enter your destination"
+msgstr ""
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
@@ -1525,6 +1550,10 @@ msgstr "Ekstensi & Lainnya"
 msgctxt "size"
 msgid "Extra Large"
 msgstr "Ekstra Besar"
+
+msgctxt "directions"
+msgid "Fastest Route"
+msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1818,6 +1847,10 @@ msgstr "Sembunyikan Situs paling dikunjungi"
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "Sembunyikan frasa kunci"
+
+msgctxt "directions"
+msgid "Hide steps"
+msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -2388,6 +2421,10 @@ msgstr ""
 "Pastikan untuk menetapkan %s\"Jadikan ini sebagai penyedia layanan pencarian "
 "bawaan saya\"%s"
 
+msgctxt "directions"
+msgid "Make sure your search is spelled correctly."
+msgstr ""
+
 msgid "Malaysia"
 msgstr ""
 
@@ -2603,6 +2640,10 @@ msgctxt "forecast"
 msgid "NW"
 msgstr ""
 
+msgctxt "directions"
+msgid "Navigate in"
+msgstr ""
+
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
 msgstr "Dekat"
@@ -2661,6 +2702,10 @@ msgctxt "noresults"
 msgid "No %s found for %s%s%s."
 msgstr "Tidak ditemukan %s dalam %s%s%s."
 
+msgctxt "directions"
+msgid "No Available Routes"
+msgstr ""
+
 msgid "No More Photos"
 msgstr "Tidak ada lagi foto"
 
@@ -2683,6 +2728,10 @@ msgctxt "safe search"
 msgid "No adult content"
 msgstr "Tanpa konten dewasa"
 
+msgctxt "directions"
+msgid "No available routes between these locations."
+msgstr ""
+
 msgctxt "safe search"
 msgid "No explicit images or videos"
 msgstr "Tidak ada gambar atau video eksplisit"
@@ -2697,6 +2746,10 @@ msgstr "Tidak ada hasil"
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
 msgstr "Tidak ditemukan hasil untuk %s%s%s."
+
+msgctxt "directions"
+msgid "No results found."
+msgstr ""
 
 msgctxt "new user poll"
 msgid "No thanks."
@@ -3929,6 +3982,10 @@ msgstr ""
 "Tampilkan tautan untuk petunjuk bagaimana menambahkan DuckDuckGo ke peramban "
 "anda"
 
+msgctxt "directions"
+msgid "Show map"
+msgstr ""
+
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
 msgstr "Tampilkan situs paling dikunjungi di laman tab baru"
@@ -3965,6 +4022,10 @@ msgstr "Tampilkan frasa sandi"
 msgctxt "settings"
 msgid "Show sign up form for the DuckDuckGo privacy newsletter"
 msgstr "Tampilkan formulir pendaftaran newsletter privasi DuckDuckGo"
+
+msgctxt "directions"
+msgid "Show steps"
+msgstr ""
 
 #. http://i.imgur.com/94erFcS.png
 msgctxt "settings"
@@ -4192,6 +4253,10 @@ msgstr "Sarankan kalimat sandi"
 msgctxt "settings"
 msgid "Suggest different phrase"
 msgstr "Sarankan frasa yang berbeda"
+
+msgctxt "directions"
+msgid "Suggestions:"
+msgstr ""
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4465,6 +4530,10 @@ msgstr "Dipercaya oleh %sjutaan%s di seluruh dunia"
 msgid "Try a search!"
 msgstr "Coba lakukan pencarian!"
 
+msgctxt "directions"
+msgid "Try adding a city, state, or postal code."
+msgstr ""
+
 msgctxt "noresults"
 msgid "Try different keywords."
 msgstr "Coba kata kunci yang berbeda."
@@ -4639,6 +4708,10 @@ msgstr "Gunakan di Firefox"
 msgid "Use in Safari"
 msgstr "Gunakan di Safari"
 
+msgctxt "directions"
+msgid "Via"
+msgstr ""
+
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
@@ -4692,6 +4765,10 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
+msgstr ""
+
+msgctxt "directions"
+msgid "Walking"
 msgstr ""
 
 msgctxt "size"
@@ -5094,6 +5171,10 @@ msgstr "Peringatan Privasi YouTube"
 msgctxt "video-license"
 msgid "YouTube Standard"
 msgstr "Standar YouTube"
+
+msgctxt "directions"
+msgid "Your Location"
+msgstr ""
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"

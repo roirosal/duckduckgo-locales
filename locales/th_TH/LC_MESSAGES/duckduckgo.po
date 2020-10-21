@@ -193,7 +193,9 @@ msgstr "เพิ่ม DuckDuckGo"
 
 msgid ""
 "Add DuckDuckGo Privacy Essentials to your browser for free with one download:"
-msgstr "เพิ่ม DuckDuckGo Privacy Essentials ลงในเบราว์เซอร์ของคุณได้ฟรีด้วยการดาวน์โหลดเพียงครั้งเดียว:"
+msgstr ""
+"เพิ่ม DuckDuckGo Privacy Essentials "
+"ลงในเบราว์เซอร์ของคุณได้ฟรีด้วยการดาวน์โหลดเพียงครั้งเดียว:"
 
 msgid "Add DuckDuckGo as a search engine"
 msgstr "เพิ่ม DuckDuckGo เป็นเครื่องมือค้นหา"
@@ -205,6 +207,10 @@ msgstr "เพิ่ม DuckDuckGo เข้าไปใน %s"
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "เพิ่มกล่องค้นหา %s บนเว็บไซต์ของคุณ"
+
+msgctxt "directions"
+msgid "Add a starting point and destination to find a route."
+msgstr ""
 
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
@@ -573,7 +579,9 @@ msgstr "ท่องเน็ตตามปกติ"
 msgid ""
 "Browse as usual while we add privacy protection. We bundled our search "
 "engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr "เรียกดูตามปกติขณะที่เราเพิ่มการปกป้องความเป็นส่วนตัวให้คุณ เรารวมเอาเครื่องมือค้นหา เครื่องมือบล็อกตัวติดตาม และเครื่องมือบังคับใช้การเข้ารหัสมาไว้ด้วยกันใน%s%s Extension%sเดียว"
+msgstr ""
+"เรียกดูตามปกติขณะที่เราเพิ่มการปกป้องความเป็นส่วนตัวให้คุณ เรารวมเอาเครื่องมือค้นหา "
+"เครื่องมือบล็อกตัวติดตาม และเครื่องมือบังคับใช้การเข้ารหัสมาไว้ด้วยกันใน%s%s Extension%sเดียว"
 
 msgid ""
 "Browse as usual, and we'll take care of the rest. We bundled our search "
@@ -1208,6 +1216,10 @@ msgstr "คุณรู้หรือไม่ว่าคุณสามาร
 msgid "Did you mean %s?"
 msgstr "หรือคุณหมายถึง %s"
 
+msgctxt "directions"
+msgid "Directions"
+msgstr ""
+
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
@@ -1282,6 +1294,10 @@ msgstr ""
 #. Instant Answer Tab Name
 msgid "Drinks"
 msgstr "เครื่องดื่ม"
+
+msgctxt "directions"
+msgid "Driving"
+msgstr ""
 
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
@@ -1431,9 +1447,17 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "ใส่รหัสสำหรับเรียกการตั้งค่าส่วนบุคคล"
 
+msgctxt "maps_directions"
+msgid "Enter start location"
+msgstr ""
+
 #. Alias=pseudônimo: pt_pt
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
+msgstr ""
+
+msgctxt "maps_directions"
+msgid "Enter your destination"
 msgstr ""
 
 msgctxt "email newsletter"
@@ -1487,6 +1511,10 @@ msgstr "ส่วนขยายและอื่น ๆ"
 msgctxt "size"
 msgid "Extra Large"
 msgstr "ใหญ่พิเศษ"
+
+msgctxt "directions"
+msgid "Fastest Route"
+msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1774,6 +1802,10 @@ msgstr ""
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "ซ่อนรหัสผ่าน"
+
+msgctxt "directions"
+msgid "Hide steps"
+msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -2321,6 +2353,10 @@ msgstr "ลองตรวจสอบว่าได้สะกดถูกต
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
 msgstr "อย่าลืมติ๊ก %sตั้งค่าเป็นผู้ให้บริการค้นหาเริ่มต้น%s"
 
+msgctxt "directions"
+msgid "Make sure your search is spelled correctly."
+msgstr ""
+
 msgid "Malaysia"
 msgstr "มาเลเซีย"
 
@@ -2536,6 +2572,10 @@ msgctxt "forecast"
 msgid "NW"
 msgstr "ตะวันตกเฉียงเหนือ"
 
+msgctxt "directions"
+msgid "Navigate in"
+msgstr ""
+
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
 msgstr "ใกล้เคียง"
@@ -2594,6 +2634,10 @@ msgctxt "noresults"
 msgid "No %s found for %s%s%s."
 msgstr ""
 
+msgctxt "directions"
+msgid "No Available Routes"
+msgstr ""
+
 msgid "No More Photos"
 msgstr ""
 
@@ -2616,6 +2660,10 @@ msgctxt "safe search"
 msgid "No adult content"
 msgstr "ไม่มีเนื้อหาผู้ใหญ่"
 
+msgctxt "directions"
+msgid "No available routes between these locations."
+msgstr ""
+
 msgctxt "safe search"
 msgid "No explicit images or videos"
 msgstr ""
@@ -2630,6 +2678,10 @@ msgstr "ไม่มีผลลัพธ์"
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
 msgstr "ไม่มีผลลัพธ์สำหรับ %s%s%s"
+
+msgctxt "directions"
+msgid "No results found."
+msgstr ""
 
 msgctxt "new user poll"
 msgid "No thanks."
@@ -3833,6 +3885,10 @@ msgctxt "settings"
 msgid "Show links to instructions for how to add DuckDuckGo to your browser"
 msgstr ""
 
+msgctxt "directions"
+msgid "Show map"
+msgstr ""
+
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
 msgstr ""
@@ -3865,6 +3921,10 @@ msgstr "แสดงรหัสผ่าน"
 
 msgctxt "settings"
 msgid "Show sign up form for the DuckDuckGo privacy newsletter"
+msgstr ""
+
+msgctxt "directions"
+msgid "Show steps"
 msgstr ""
 
 #. http://i.imgur.com/94erFcS.png
@@ -4092,6 +4152,10 @@ msgstr "แนะนำรหัสผ่าน"
 msgctxt "settings"
 msgid "Suggest different phrase"
 msgstr "แนะนำคำอื่นๆ"
+
+msgctxt "directions"
+msgid "Suggestions:"
+msgstr ""
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4355,6 +4419,10 @@ msgstr "ได้รับความไว้วางใจจาก%sหล�
 msgid "Try a search!"
 msgstr "ลองค้นหา"
 
+msgctxt "directions"
+msgid "Try adding a city, state, or postal code."
+msgstr ""
+
 msgctxt "noresults"
 msgid "Try different keywords."
 msgstr "ลองใช้คำค้นอื่น"
@@ -4519,6 +4587,10 @@ msgstr "ใช้งานบน Firefox"
 msgid "Use in Safari"
 msgstr "ใช้งานบน Safari"
 
+msgctxt "directions"
+msgid "Via"
+msgstr ""
+
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
@@ -4570,6 +4642,10 @@ msgstr "ตะวันตก"
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
+msgstr ""
+
+msgctxt "directions"
+msgid "Walking"
 msgstr ""
 
 msgctxt "size"
@@ -4944,6 +5020,10 @@ msgstr "คำเตือนความเป็นส่วนตัว YouTu
 msgctxt "video-license"
 msgid "YouTube Standard"
 msgstr "มาตรฐาน YouTube"
+
+msgctxt "directions"
+msgid "Your Location"
+msgstr ""
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"

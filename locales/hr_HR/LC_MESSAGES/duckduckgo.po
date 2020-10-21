@@ -197,7 +197,9 @@ msgstr "Dodaj DuckDuckGo"
 
 msgid ""
 "Add DuckDuckGo Privacy Essentials to your browser for free with one download:"
-msgstr "Dodajte DuckDuckGo Privacy Essentials u svoj preglednik besplatno jednim preuzimanjem:"
+msgstr ""
+"Dodajte DuckDuckGo Privacy Essentials u svoj preglednik besplatno jednim "
+"preuzimanjem:"
 
 msgid "Add DuckDuckGo as a search engine"
 msgstr "Dodajte DuckDuckGo kao pretraživač"
@@ -209,6 +211,10 @@ msgstr "Dodaj DuckDuckGo u %s"
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "Dodajte %s pretraživačko polje na svoju stranicu!"
+
+msgctxt "directions"
+msgid "Add a starting point and destination to find a route."
+msgstr ""
 
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
@@ -581,7 +587,10 @@ msgstr "Pregledavajte internet kao i obično"
 msgid ""
 "Browse as usual while we add privacy protection. We bundled our search "
 "engine, tracker blocker, and encryption enforcer into one %s%s Extension%s."
-msgstr "Pregledavajte kao i obično dok dodajemo zaštitu privatnosti. Našu tražilicu, blokiranje tragača i pokretač šifriranja uvrstili smo u jedno %s%s proširenje%s."
+msgstr ""
+"Pregledavajte kao i obično dok dodajemo zaštitu privatnosti. Našu tražilicu, "
+"blokiranje tragača i pokretač šifriranja uvrstili smo u jedno %s%s proširenje"
+"%s."
 
 msgid ""
 "Browse as usual, and we'll take care of the rest. We bundled our search "
@@ -1236,6 +1245,10 @@ msgstr "Znate li da možete %sprilagoditi%s DuckDuckGo?"
 msgid "Did you mean %s?"
 msgstr "Jeste li mislili %s?"
 
+msgctxt "directions"
+msgid "Directions"
+msgstr ""
+
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
@@ -1310,6 +1323,10 @@ msgstr "Odvucite %sovaj gumb%s na ikonu kućice:"
 #. Instant Answer Tab Name
 msgid "Drinks"
 msgstr "Pića"
+
+msgctxt "directions"
+msgid "Driving"
+msgstr ""
 
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
@@ -1463,10 +1480,18 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "Unesite lozinku"
 
+msgctxt "maps_directions"
+msgid "Enter start location"
+msgstr ""
+
 #. Alias=pseudônimo: pt_pt
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr "Unesite sljedeće: %sNaziv%s: DuckDuckGo%s URL%s: %s Pseudonim%s: d%s"
+
+msgctxt "maps_directions"
+msgid "Enter your destination"
+msgstr ""
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
@@ -1520,6 +1545,10 @@ msgstr "Proširenja i više"
 msgctxt "size"
 msgid "Extra Large"
 msgstr "Vrlo veliko"
+
+msgctxt "directions"
+msgid "Fastest Route"
+msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1812,6 +1841,10 @@ msgstr ""
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "Sakrij lozinku"
+
+msgctxt "directions"
+msgid "Hide steps"
+msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -2375,6 +2408,10 @@ msgstr ""
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
 msgstr "Provjerite jeste li odabrali %s\"Ovu tražilicu postavi kao zadanu\"%s"
 
+msgctxt "directions"
+msgid "Make sure your search is spelled correctly."
+msgstr ""
+
 msgid "Malaysia"
 msgstr "Malazija"
 
@@ -2590,6 +2627,10 @@ msgctxt "forecast"
 msgid "NW"
 msgstr ""
 
+msgctxt "directions"
+msgid "Navigate in"
+msgstr ""
+
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
 msgstr "U blizini"
@@ -2648,6 +2689,10 @@ msgctxt "noresults"
 msgid "No %s found for %s%s%s."
 msgstr ""
 
+msgctxt "directions"
+msgid "No Available Routes"
+msgstr ""
+
 msgid "No More Photos"
 msgstr "Nema više fotografija"
 
@@ -2670,6 +2715,10 @@ msgctxt "safe search"
 msgid "No adult content"
 msgstr "Bez sadržaja za odrasle"
 
+msgctxt "directions"
+msgid "No available routes between these locations."
+msgstr ""
+
 msgctxt "safe search"
 msgid "No explicit images or videos"
 msgstr "Bez eksplicitnih slika ili videozapisa"
@@ -2684,6 +2733,10 @@ msgstr "Nema rezultata"
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
 msgstr "Nisu pronađeni rezultati za %s%s%s."
+
+msgctxt "directions"
+msgid "No results found."
+msgstr ""
 
 msgctxt "new user poll"
 msgid "No thanks."
@@ -3913,6 +3966,10 @@ msgctxt "settings"
 msgid "Show links to instructions for how to add DuckDuckGo to your browser"
 msgstr "Prikaži poveznice na upute kako dodati DuckDuckGo u Vaš preglednik"
 
+msgctxt "directions"
+msgid "Show map"
+msgstr ""
+
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
 msgstr ""
@@ -3949,6 +4006,10 @@ msgstr "Prikaži lozinku"
 msgctxt "settings"
 msgid "Show sign up form for the DuckDuckGo privacy newsletter"
 msgstr "Prikaži obrazac za prijavu na DuckDuckGo newsletter o privatnosti"
+
+msgctxt "directions"
+msgid "Show steps"
+msgstr ""
 
 #. http://i.imgur.com/94erFcS.png
 msgctxt "settings"
@@ -4178,6 +4239,10 @@ msgstr "Predloži lozinku"
 msgctxt "settings"
 msgid "Suggest different phrase"
 msgstr "Predloži drugačiju frazu"
+
+msgctxt "directions"
+msgid "Suggestions:"
+msgstr ""
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4450,6 +4515,10 @@ msgstr "Ima povjerenje %smilijuna%s diljem svijeta"
 msgid "Try a search!"
 msgstr "Isprobajte pretragu!"
 
+msgctxt "directions"
+msgid "Try adding a city, state, or postal code."
+msgstr ""
+
 msgctxt "noresults"
 msgid "Try different keywords."
 msgstr ""
@@ -4623,6 +4692,10 @@ msgstr "Koristi u Firefoxu"
 msgid "Use in Safari"
 msgstr "Koristi u Safari pregledniku"
 
+msgctxt "directions"
+msgid "Via"
+msgstr ""
+
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
@@ -4678,6 +4751,10 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
+msgstr ""
+
+msgctxt "directions"
+msgid "Walking"
 msgstr ""
 
 msgctxt "size"
@@ -5077,6 +5154,10 @@ msgstr "Upozorenje o privatnosti usluge YouTubea"
 msgctxt "video-license"
 msgid "YouTube Standard"
 msgstr "Standardna YouTube licenca"
+
+msgctxt "directions"
+msgid "Your Location"
+msgstr ""
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"
