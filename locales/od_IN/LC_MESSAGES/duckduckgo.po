@@ -205,9 +205,13 @@ msgid "Add DuckDuckGo to %s"
 msgstr "DuckDuckGo କୁ %s ରେ ଯୋଡ଼ନ୍ତୁ"
 
 #. https://duckduckgo.com/search_box near the top
-#. e.g.: Add a DuckDuckGo search box to your site! 
+#. e.g.: Add a DuckDuckGo search box to your site!
 msgid "Add a %s search box to your site!"
 msgstr "ଆପଣଙ୍କର ସାଇଟରେ ଗୋଟିଏ %s ଖୋଜା ବାକ୍ସ ସ୍ଥାପନ କରନ୍ତୁ!"
+
+msgctxt "directions"
+msgid "Add a starting point and destination to find a route."
+msgstr ""
 
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
@@ -330,7 +334,7 @@ msgstr ""
 msgid "Answer"
 msgstr "ଉତ୍ତର"
 
-#. In feedback page, first box. https://duckduckgo.com/feedback 
+#. In feedback page, first box. https://duckduckgo.com/feedback
 msgid "Answers to most DuckDuckGo questions, like:"
 msgstr "ଅଧିକାଂଶ DuckDuckGo  ସମ୍ବନ୍ଧିତ ପ୍ରଶ୍ନର ଉତ୍ତରଗୁଡ଼ିକ, ଯେପରିକି:"
 
@@ -437,8 +441,8 @@ msgstr "ପୃଷ୍ଠଭୂମି:"
 msgid "Bang category"
 msgstr "ବ୍ୟାଙ୍ଗ ବର୍ଗ"
 
-#. in duckduckgo.com/newbang in the error message 
-#. e.g.: 
+#. in duckduckgo.com/newbang in the error message
+#. e.g.:
 #. The following required fields were not filled:
 #. Bang command
 #. Category
@@ -448,7 +452,7 @@ msgid "Bang command"
 msgstr "ବ୍ୟାଙ୍ଗ ଆଦେଶ"
 
 #. https://duckduckgo.com/newbang
-#. e.g.: Bang command, e.g. duckduckgo (usually is domain name, e.g. nytimes) 
+#. e.g.: Bang command, e.g. duckduckgo (usually is domain name, e.g. nytimes)
 msgid "Bang command, e.g. %s (usually is domain name, e.g. %s)"
 msgstr "ବ୍ୟାଙ୍ଗ ଆଦେଶ, ଉଦାହରଣ: %s (ସାଧାରଣତଃ ଡୋମେନ ନାମ, ଉଦାହରଣ %s)"
 
@@ -477,11 +481,11 @@ msgid "Bang url"
 msgstr "ବ୍ୟାଙ୍ଗ ୟୁଆରଏଲ"
 
 #. https://duckduckgo.com/newbang
-#. e.g.: Bang url, e.g. http://duckduckgo.com/?q={{{s}}} 
+#. e.g.: Bang url, e.g. http://duckduckgo.com/?q={{{s}}}
 msgid "Bang url, e.g. %s"
 msgstr "ବ୍ୟାଙ୍ଗ ୟୁଆରଏଲ, ଉଦାହରଣ: %s"
 
-#. This text always refers to the DuckDuckGo bangs function: https://duckduckgo.com/bang 
+#. This text always refers to the DuckDuckGo bangs function: https://duckduckgo.com/bang
 msgid "Bangs"
 msgstr "ବ୍ୟାଙ୍ଗଗୁଡ଼ିକ"
 
@@ -723,8 +727,8 @@ msgctxt "settings"
 msgid "Changes the result hover, module, and dropdown background color"
 msgstr "ଫଳାଫଳ ହୋଭର, ମଡ୍ୟୁଲ  ଏବଂ ଡ୍ରପ ଡାଉନର ପ୍ରଚ୍ଛଦପଟ୍ଟ ରଙ୍ଗ ପରିବର୍ତ୍ତନ କରିଥାଏ "
 
-#. http://i.imgur.com/f1bLTY1.png 
-#. Description for "Result Title Color" which changes the color of the results. 
+#. http://i.imgur.com/f1bLTY1.png
+#. Description for "Result Title Color" which changes the color of the results.
 msgctxt "settings"
 msgid "Changes the title link color for each result"
 msgstr "ପ୍ରତ୍ୟେକ ଫଳାଫଳାର ଶୀର୍ଷକ ଲିଙ୍କ ରଙ୍ଗ ପରିବର୍ତ୍ତନ କରେ"
@@ -985,7 +989,7 @@ msgctxt "maps_places"
 msgid "Closes soon"
 msgstr "ଶୀଘ୍ର ବନ୍ଦ ହେବାକୁ ଯାଉଛି "
 
-#. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud. 
+#. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud.
 msgid "Cloud Save"
 msgstr "କ୍ଲାଉଡ ସଞ୍ଚୟ"
 
@@ -1005,7 +1009,7 @@ msgctxt "cloudsave"
 msgid "Cloud Save Enabled"
 msgstr "କ୍ଲାଉଡ଼ ସଞ୍ଚୟ କରାଗଲା"
 
-#. Self informative <em>Cloud Save FAQ</em> title for the FAQ about how your settings data can be stored anonymously.  
+#. Self informative <em>Cloud Save FAQ</em> title for the FAQ about how your settings data can be stored anonymously.
 msgctxt "cloudsave"
 msgid "Cloud Save FAQ"
 msgstr "କ୍ଲାଉଡ଼ ସଞ୍ଚୟ ଉପରେ ବାରମ୍ବାର ପଚରାଯାଉଥିବା ପ୍ରଶ୍ନଗୁଡିକ"
@@ -1047,7 +1051,7 @@ msgstr "ରଙ୍ଗ"
 msgid "Comics"
 msgstr "କମିକ୍ସ"
 
-#. When suggesting a !newbang in the <a href="https://duckduckgo.com/newbang.html">!newbang page</a>, last field is a free text one for adding <em>comments</em>. This is the label for this field. 
+#. When suggesting a !newbang in the <a href="https://duckduckgo.com/newbang.html">!newbang page</a>, last field is a free text one for adding <em>comments</em>. This is the label for this field.
 msgid "Comments"
 msgstr "ଟିପ୍ପଣୀ"
 
@@ -1071,8 +1075,8 @@ msgctxt "theme"
 msgid "Contrast"
 msgstr "ଭେଦ"
 
-#. http://i.imgur.com/G36h64l.png 
-#. This setting controls the width of the search results: 
+#. http://i.imgur.com/G36h64l.png
+#. This setting controls the width of the search results:
 #. http://i.imgur.com/CoVquLr.png
 #. http://i.imgur.com/DiQq2Ll.png
 msgctxt "settings"
@@ -1131,7 +1135,7 @@ msgid "Custom"
 msgstr "ନିଜସ୍ୱ ଅକ୍ଷର"
 
 #. Custom --> 'customized'
-#. A setting that *you* choose and is not a default. 
+#. A setting that *you* choose and is not a default.
 msgctxt "settingsvalue"
 msgid "Custom"
 msgstr "ନିଜସ୍ୱ"
@@ -1216,6 +1220,10 @@ msgstr "କଣ ଆପଣ ଜାଣିଛନ୍ତି କି ଆପଣ %s DuckDuc
 msgid "Did you mean %s?"
 msgstr "କଣ ଆପଣଙ୍କର କହିବାର ଅର୍ଥ %s ଅଟେ?"
 
+msgctxt "directions"
+msgid "Directions"
+msgstr ""
+
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
@@ -1290,6 +1298,10 @@ msgstr "ହୋମ ଆଇକନ ଉପରେ  %s ଏହି ବଟନ %s କୁ �
 #. Instant Answer Tab Name
 msgid "Drinks"
 msgstr "ପାନୀୟ"
+
+msgctxt "directions"
+msgid "Driving"
+msgstr ""
 
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
@@ -1373,7 +1385,7 @@ msgid "EU Android Welcome Message"
 msgstr ""
 
 #. Stuff explaining <em>how does passphrase generation work</em>.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid ""
@@ -1384,7 +1396,7 @@ msgstr ""
 "ଅନାବନା ଶବ୍ଦର ଏକ ବଡ଼ ତାଲିକା ମିଳିଥାଏ ।"
 
 #. Form field for your email ;)
-#. From <a href="https://duckduckgo.com/newbang.html ">new !bang page</a> and <a href="https://duckduckgo.com/feedback.html">feedback page</a>. 
+#. From <a href="https://duckduckgo.com/newbang.html ">new !bang page</a> and <a href="https://duckduckgo.com/feedback.html">feedback page</a>.
 msgid "Email"
 msgstr "ଇମେଲ"
 
@@ -1428,7 +1440,7 @@ msgstr "ମନର ଶାନ୍ତିକୁ ଉପଭୋଗ କରନ୍ତୁ"
 msgid "Enter %shttps://duckduckgo.com%s"
 msgstr "ଟାଇପ କରନ୍ତୁ  %shttps://duckduckgo.com%s"
 
-#. Click to expand the Cloud Save box: http://i.imgur.com/1OudbYX.png 
+#. Click to expand the Cloud Save box: http://i.imgur.com/1OudbYX.png
 #. then locate the text here: http://i.imgur.com/xisuMjL.png
 msgctxt "cloudsave"
 msgid ""
@@ -1443,11 +1455,19 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "ଗୋଟିଏ ପାସଫ୍ରେଜ ଦିଅନ୍ତୁ"
 
+msgctxt "maps_directions"
+msgid "Enter start location"
+msgstr ""
+
 #. Alias=pseudônimo: pt_pt
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr ""
 "ନିମ୍ନଲିଖିତ ବିବରଣୀ ପ୍ରଦାନ କରନ୍ତୁ:  %s ନାମ %s: DuckDuckGo  %s ୟୁଆରଏଲ %s: %s ଉପନାମ %s: %s"
+
+msgctxt "maps_directions"
+msgid "Enter your destination"
+msgstr ""
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
@@ -1501,6 +1521,10 @@ msgstr "ଏକ୍ସଟେନସନ ଏବଂ ଅଧିକ"
 msgctxt "size"
 msgid "Extra Large"
 msgstr "ଅଧିକ ବଡ଼"
+
+msgctxt "directions"
+msgid "Fastest Route"
+msgstr ""
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1786,10 +1810,14 @@ msgctxt "new tab page"
 msgid "Hide Most Visited Sites"
 msgstr "ସର୍ବାଧିକ ଦେଖିଥିବା ସାଇଟକୁ ଲୁଚାନ୍ତୁ"
 
-#. "Hide pass phrase" appears in the Load Cloud Settings box: http://i.imgur.com/24xv6L8.png  
+#. "Hide pass phrase" appears in the Load Cloud Settings box: http://i.imgur.com/24xv6L8.png
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "ପାସଫ୍ରେଜ ଲୁଚାନ୍ତୁ"
+
+msgctxt "directions"
+msgid "Hide steps"
+msgstr ""
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -1830,21 +1858,21 @@ msgid "How We Are Profitable"
 msgstr "ଆମେ କିପରି ଲାଭ ପାଉଛୁ"
 
 #. Title for the stuffs explaining <em>how to change your passphrase</em>.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How do I change my passphrase?"
 msgstr "ମୁଁ ନିଜ ପାସଫ୍ରେଜକୁ କିଭଳି ବଦଳି ପାରିବି?"
 
 #. Title for the stuffs explaining <em>how the cloud save works</em>.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How does it work?"
 msgstr "ଏହା କିପରି କାମ କରିଥାଏ?"
 
 #. Title for the stuffs explaining <em>how does passphrase generation work</em>.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How does passphrase generation work?"
@@ -1877,7 +1905,7 @@ msgid "I don't want this type of results"
 msgstr ""
 
 #. Title for the stuff explaining <em>how DuckDuckGo <strong>REALLY doesn't</strong> track you</em>.
-#. From the <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From the <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "I forgot my passphrase. Can you recover it?"
@@ -1918,7 +1946,7 @@ msgctxt "settings"
 msgid "If you still want to support us, %shelp spread DuckDuckGo%s"
 msgstr "ଯଦି ଆପଣ ସାହାର୍ଯ୍ୟ କରିବାକୁ ଚାହୁଁଛନ୍ତି ତେବେ %s DuckDuckGo ର ପ୍ରଚାରରେ ସହାୟତା କରନ୍ତୁ%s"
 
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. Message displayed at the bottom of the page, informing you that you can't use the settings page without Java Script activated into your browser. <em>%s</em> and <em>%s</em> are respectively for (raw) <em>HTML</em> and <em>lite</em> versions.
 #.
 msgid ""
@@ -1960,7 +1988,7 @@ msgstr ""
 "ତଥ୍ୟ ଫୁଟିଯିବାକୁ ବର୍ଜନ କରିହେବ । %sଅଧିକ ତଥ୍ୟ%s"
 
 #. Explanations about <em>how does passphrase generation work</em> paragraph.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid ""
@@ -1974,7 +2002,7 @@ msgid "In the drop down select %sDuckDuckGo%s!"
 msgstr "ଡ୍ରପ ଡାଉନରେ %s DuckDuckGo  %s କୁ ବାଛନ୍ତୁ"
 
 #. Explanations for <em>how does the settings cloud save works</em> paragraph.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid ""
@@ -2070,7 +2098,7 @@ msgid "Ireland"
 msgstr "ଆୟରଲ୍ୟାଣ୍ଡ"
 
 #. Title for information about this question. The answer is only <strong>YES</strong>.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "Is deleted data really deleted?"
@@ -2109,7 +2137,7 @@ msgstr "ଆଇଟମ"
 msgid "Japan"
 msgstr "ଜାପାନ"
 
-#. Instant Answer Tab Name (below the search box, above the results) 
+#. Instant Answer Tab Name (below the search box, above the results)
 msgid "Jobs"
 msgstr "କାମଗୁଡ଼ିକ"
 
@@ -2142,7 +2170,7 @@ msgstr "କିବୋର୍ଡ଼ ଶର୍ଟକର୍ଟ"
 msgid "Korea"
 msgstr "କୋରିଆ"
 
-#. http://i.imgur.com/L74c87B.png 
+#. http://i.imgur.com/L74c87B.png
 #. Adjusts the displayed language of DuckDuckGo (translations)
 msgctxt "settings"
 msgid "Language"
@@ -2168,8 +2196,8 @@ msgctxt "size"
 msgid "Larger"
 msgstr "ବଡ଼"
 
-#. http://i.imgur.com/xdSUFar.png 
-#. In the dropdown menu for, "Font Size" 
+#. http://i.imgur.com/xdSUFar.png
+#. In the dropdown menu for, "Font Size"
 msgctxt "settingsvalue"
 msgid "Largest"
 msgstr "ସବୁଠାରୁ ବଡ଼"
@@ -2289,7 +2317,7 @@ msgstr "ଲୋଡ଼ କରନ୍ତୁ"
 msgid "Load Cloud Settings"
 msgstr "କ୍ଲାଉଡ଼ ସେଟିଙ୍ଗ ଲୋଡ଼ କରନ୍ତୁ"
 
-#. After clicking, "Load Settings" this appears as the title of that section: http://i.imgur.com/rJseWa6.png 
+#. After clicking, "Load Settings" this appears as the title of that section: http://i.imgur.com/rJseWa6.png
 msgctxt "cloudsave"
 msgid "Load Cloud Settings"
 msgstr "କ୍ଲାଉଡ଼ ସେଟିଙ୍ଗ ଲୋଡ଼ କରନ୍ତୁ"
@@ -2346,6 +2374,10 @@ msgstr "ସବୁ ଶବ୍ଦଗୁଡ଼ିକର ବନାନ ସଠିକ �
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
 msgstr "%sଏହାକୁ ମୋର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଖୋଜା ଇଞ୍ଜିନ ବନାନ୍ତୁ%s ଯାଞ୍ଚ କରି ପକ୍କା କରନ୍ତୁ"
 
+msgctxt "directions"
+msgid "Make sure your search is spelled correctly."
+msgstr ""
+
 msgid "Malaysia"
 msgstr "ମାଲେସିଆ"
 
@@ -2371,7 +2403,7 @@ msgctxt "feedback form"
 msgid "Maps / Location Info"
 msgstr "ମାନଚିତ୍ର / ସ୍ଥାନ ତଥ୍ୟ"
 
-#. In creating a new bang 
+#. In creating a new bang
 #. reference: https://duckduckgo.com/newbang
 msgid "Mark where the search goes with {{{s}}}"
 msgstr "ଏହା କୁହନ୍ତୁ କି {{{s}}} ସହିତ ଫଳାଫଳ କେଉଁଆଡେ ଯାଇଥାଏ"
@@ -2561,6 +2593,10 @@ msgctxt "forecast"
 msgid "NW"
 msgstr "ଉତ୍ତର-ପଶ୍ଚିମ"
 
+msgctxt "directions"
+msgid "Navigate in"
+msgstr ""
+
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
 msgstr "ପାଖାପାଖି"
@@ -2619,6 +2655,10 @@ msgctxt "noresults"
 msgid "No %s found for %s%s%s."
 msgstr " %s%s%s ପାଇଁ କୌଣସି %s ମିଳିଲା ନାହିଁ"
 
+msgctxt "directions"
+msgid "No Available Routes"
+msgstr ""
+
 msgid "No More Photos"
 msgstr "ଆଉ ଅଧିକା ଛବି ନାହିଁ"
 
@@ -2641,6 +2681,10 @@ msgctxt "safe search"
 msgid "No adult content"
 msgstr "କୌଣସି ପ୍ରୌଢ଼ ତଥ୍ୟ ନାହିଁ"
 
+msgctxt "directions"
+msgid "No available routes between these locations."
+msgstr ""
+
 msgctxt "safe search"
 msgid "No explicit images or videos"
 msgstr "କୌଣସି ଆପତ୍ତିଜନକ ଛବି ବା ଭିଡିଓ ନାହିଁ"
@@ -2655,6 +2699,10 @@ msgstr "କୌଣସି ଫଳାଫଳ ନାହିଁ"
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
 msgstr "%s%s%s ପାଇଁ କୌଣସି ଫଳାଫଳ ମିଳିଲା ନାହିଁ"
+
+msgctxt "directions"
+msgid "No results found."
+msgstr ""
 
 msgctxt "new user poll"
 msgid "No thanks."
@@ -2858,8 +2906,8 @@ msgctxt "maps_places"
 msgid "Opens"
 msgstr "ଖୋଲେ "
 
-#. http://i.imgur.com/iCNwHqR.png  
-#. This setting controls how results open when you click on them. 
+#. http://i.imgur.com/iCNwHqR.png
+#. This setting controls how results open when you click on them.
 msgctxt "settings"
 msgid "Opens results in new windows/tabs"
 msgstr "ନୂଆ ୱିଣ୍ଡୋ/ଟ୍ୟାବରେ ପରିଣାମ ଖୋଲନ୍ତୁ"
@@ -3304,13 +3352,13 @@ msgstr "ପୁନଃନିର୍ଦ୍ଦେଶିତ"
 msgid "Region"
 msgstr "ପ୍ରଦେଶ"
 
-#. http://i.imgur.com/G0kt3wS.png 
-#. Setting to boost results for your region. 
+#. http://i.imgur.com/G0kt3wS.png
+#. Setting to boost results for your region.
 msgctxt "settings"
 msgid "Region"
 msgstr "କ୍ଷେତ୍ର"
 
-#. This text is OLD and not in use. 
+#. This text is OLD and not in use.
 #. IF translated, it's meant to refer to the Setting which controls Region: http://i.imgur.com/aYsZwbp.png
 msgid "Region Setting"
 msgstr "କ୍ଷେତ୍ର ସେଟିଙ୍ଗ"
@@ -3353,14 +3401,14 @@ msgctxt "cloudsave"
 msgid "Reset All Settings"
 msgstr "ସମସ୍ତ ସେଟିଙ୍ଗ ରିସେଟ କରିଦିଅନ୍ତୁ"
 
-#. http://i.imgur.com/ktBWbzB.png 
-#. Resets your configuration 
+#. http://i.imgur.com/ktBWbzB.png
+#. Resets your configuration
 msgctxt "settings"
 msgid "Reset All Settings"
 msgstr "ସମସ୍ତ ସେଟିଙ୍ଗ ରିସେଟ କରିଦିଅନ୍ତୁ"
 
 #. http://i.imgur.com/t65r7D9.png
-#. changes the color of the result descriptions like this: http://i.imgur.com/UOdZYpf.png 
+#. changes the color of the result descriptions like this: http://i.imgur.com/UOdZYpf.png
 msgctxt "settings"
 msgid "Result Description Color"
 msgstr "ଫଳାଫଳ ଵର୍ଣ୍ଣନର ରଙ୍ଗ"
@@ -3378,12 +3426,12 @@ msgctxt "settings"
 msgid "Result Hover, Module, and Dropdown Background Color"
 msgstr "ଫଳାଫଳ ହୋଭର, ମଡ୍ୟୁଲ  ଏବଂ ଡ୍ରପ ଡାଉନର ପ୍ରଚ୍ଛଦପଟ୍ଟ ରଙ୍ଗ"
 
-#. in https://duckduckgo.com/params in the top. it is the first header 
+#. in https://duckduckgo.com/params in the top. it is the first header
 msgid "Result Settings"
 msgstr "ଫଳାଫଳ ସେଟିଙ୍ଗ"
 
 #. http://i.imgur.com/M5H3oSv.png
-#. Changes the color of the results. 
+#. Changes the color of the results.
 msgctxt "settings"
 msgid "Result Title Color"
 msgstr "ଫଳାଫଳର ଶୀର୍ଷକ ରଙ୍ଗ"
@@ -3428,8 +3476,8 @@ msgctxt "precise_user_location"
 msgid "Results are good enough."
 msgstr ""
 
-#. http://i.imgur.com/OODM0bR.png 
-#. Selecting "Retro" will change the look and layout of DuckDuckGo to resemble the old site: http://i.imgur.com/toYUxqn.png 
+#. http://i.imgur.com/OODM0bR.png
+#. Selecting "Retro" will change the look and layout of DuckDuckGo to resemble the old site: http://i.imgur.com/toYUxqn.png
 msgctxt "theme"
 msgid "Retro"
 msgstr "ପୂର୍ଵଵ୍ୟାପୀ"
@@ -3584,6 +3632,9 @@ msgstr "ଖୋଜିବାର ବିକଳ୍ପଗୁଡ଼ିକ"
 
 msgid "Search Results"
 msgstr "ଖୋଜାର ଫଳାଫଳ"
+
+msgid "Search and browse privately with the DuckDuckGo app."
+msgstr ""
 
 #. Le terme apparait en survolant le terme "More from ..." sur la page de résultats.
 msgid "Search domain %s"
@@ -3798,8 +3849,8 @@ msgctxt "feedback form"
 msgid "Settings"
 msgstr "ସେଟିଙ୍ଗ"
 
-#. http://i.imgur.com/uzNLMwE.png 
-#. Your DuckDuckGo settings as JSON parameters (https://en.wikipedia.org/wiki/JSON) 
+#. http://i.imgur.com/uzNLMwE.png
+#. Your DuckDuckGo settings as JSON parameters (https://en.wikipedia.org/wiki/JSON)
 msgctxt "settings"
 msgid "Settings in JSON:"
 msgstr "JSONର ସେଟିଙ୍ଗ"
@@ -3829,8 +3880,8 @@ msgstr "ଛୋଟ"
 msgid "Shortcuts to other sites to search off DuckDuckGo"
 msgstr "ଅନ୍ୟ ୱେବସାଇଟରେ DuckDuckGo ରୁ ଖୋଜିବାର ସଂକ୍ଷିପ୍ତ ମାର୍ଗ"
 
-#. http://i.imgur.com/msbR8Xk.png 
-#. Clicking will show you your Settings as a URL and JSON like this http://i.imgur.com/59sqEFU.png 
+#. http://i.imgur.com/msbR8Xk.png
+#. Clicking will show you your Settings as a URL and JSON like this http://i.imgur.com/59sqEFU.png
 msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "ବୁକମାର୍କଲେଟ ଏବଂ ସେଟିଙ୍ଗ ତଥ୍ୟ ଦେଖାନ୍ତୁ"
@@ -3871,6 +3922,10 @@ msgctxt "settings"
 msgid "Show links to instructions for how to add DuckDuckGo to your browser"
 msgstr "DuckDuckGo କୁ କିଭଳି ବ୍ରାଉଜରରେ ଯୋଡିହେବ ତାହାର କଡ଼ି ଦେଖାନ୍ତୁ"
 
+msgctxt "directions"
+msgid "Show map"
+msgstr ""
+
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
 msgstr "ଅଧିକଥର ଦେଖିଥିବା କଡ଼ିଗୁଡ଼ିକୁ ନୂତନ ଟ୍ୟାବରେ ଦେଖନ୍ତୁ"
@@ -3904,6 +3959,10 @@ msgstr "ପାସଫ୍ରେଜ ଦେଖାନ୍ତୁ"
 msgctxt "settings"
 msgid "Show sign up form for the DuckDuckGo privacy newsletter"
 msgstr "DuckDuckGo  ଗୋପନୀୟତା ସମାଚାରପତ୍ର ପାଇବାକୁ ପଞ୍ଜୀକରଣ ଫର୍ମ ଦେଖାନ୍ତୁ"
+
+msgctxt "directions"
+msgid "Show steps"
+msgstr ""
 
 #. http://i.imgur.com/94erFcS.png
 msgctxt "settings"
@@ -3976,8 +4035,8 @@ msgctxt "settings"
 msgid "Site Icons"
 msgstr "ସାଇଟ ଆଇକନ"
 
-#. in duckduckgo.com/newbang in the error message 
-#. e.g.: 
+#. in duckduckgo.com/newbang in the error message
+#. e.g.:
 #. The following required fields were not filled:
 #. Site name
 #. Bang command
@@ -4131,6 +4190,10 @@ msgctxt "settings"
 msgid "Suggest different phrase"
 msgstr "ଏକ ଅଲଗା ପାସଫ୍ରେଜ କୁହନ୍ତୁ"
 
+msgctxt "directions"
+msgid "Suggestions:"
+msgstr ""
+
 msgctxt "noresults"
 msgid "Suggestions:"
 msgstr "ମତାମତଗୁଡ଼ିକ:"
@@ -4216,7 +4279,7 @@ msgctxt "bangcat"
 msgid "Tech"
 msgstr "ଟେକ୍ନୋଲୋଜି"
 
-#. An option under "Theme" http://i.imgur.com/fFIMtgl.png 
+#. An option under "Theme" http://i.imgur.com/fFIMtgl.png
 #. changes the look of DuckDuckGo to a Terminal, like this: http://i.imgur.com/BDN8Tfm.png
 msgctxt "theme"
 msgid "Terminal"
@@ -4283,7 +4346,7 @@ msgctxt "settings"
 msgid "The rendering method to use for interactive maps"
 msgstr "ଇଣ୍ଟରାକ୍ଟିଭ ମାନଚିତ୍ର ପାଇଁ ଉପଯୋଗ ହେଉଥିବା ରେଣ୍ଡରିଂ ଉପାୟ"
 
-#. For rotating carousel on the home page. [ See screenshot: http://i.imgur.com/nfMmIe1.png ] 
+#. For rotating carousel on the home page. [ See screenshot: http://i.imgur.com/nfMmIe1.png ]
 msgctxt "frontpage"
 msgid "The search engine that doesn't track you."
 msgstr "ଏକ ଖୋଜାଖୋଜି ଇଞ୍ଜିନ ଯାହା ଆପଣଙ୍କୁ ଅନୁସରଣ କରେନାହିଁ  |"
@@ -4405,6 +4468,10 @@ msgstr "ବିଶ୍ୱସାରା %sମିଲିୟନ%s ଙ୍କଦ୍ୱା
 msgid "Try a search!"
 msgstr "ଗୋଟିଏ ଖୋଜିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ!"
 
+msgctxt "directions"
+msgid "Try adding a city, state, or postal code."
+msgstr ""
+
 msgctxt "noresults"
 msgid "Try different keywords."
 msgstr "ଅନ୍ୟ କୌଣସି ଶବ୍ଦାବଳୀ ଚେଷ୍ଟା କରନ୍ତୁ ।"
@@ -4426,6 +4493,9 @@ msgstr "ଆମର ଏହି ମୂଳପୃଷ୍ଠାଟି ଚେଷ୍ଟା
 
 msgctxt "precise_user_location"
 msgid "Try setting your location manually."
+msgstr ""
+
+msgid "Try the DuckDuckGo app"
 msgstr ""
 
 #. Message displayed sometimes at top of results (for bang syntax), e.g. <a href="https://duckduckgo.com/?q=twitter+test">https://duckduckgo.com/?q=twitter+test</a>
@@ -4511,8 +4581,8 @@ msgstr "On startup ତଳେ %sOpen a specific page or set of pages%s ଚୟନ 
 msgid "Under Search click the drop down and select %sDuckDuckGo%s"
 msgstr "ସର୍ଚ୍ଚ ତଳେ ଥିବା ଡ୍ରପ ଡାଉନ ରେ କ୍ଲିକ କରି  %sDuckDuckGo %s କୁ ଚୟନ କରନ୍ତୁ"
 
-#. http://i.imgur.com/7M5ogIs.png 
-#. If, "On" --it will add an underline to result titles like this: http://i.imgur.com/VRFC6VQ.png 
+#. http://i.imgur.com/7M5ogIs.png
+#. If, "On" --it will add an underline to result titles like this: http://i.imgur.com/VRFC6VQ.png
 #. If, "Off" --there will be no underline, like this: http://i.imgur.com/6MyezXn.png
 msgctxt "settings"
 msgid "Underline the title link for each result"
@@ -4573,6 +4643,10 @@ msgstr "ଫାୟାରଫକ୍ସରେ ବ୍ୟବହାର କରନ୍ତ�
 msgid "Use in Safari"
 msgstr "ସଫାରୀରେ ଉପଯୋଗ କରନ୍ତୁ"
 
+msgctxt "directions"
+msgid "Via"
+msgstr ""
+
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
 msgid "Video Playback"
@@ -4626,6 +4700,10 @@ msgstr "W"
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
+msgstr ""
+
+msgctxt "directions"
+msgid "Walking"
 msgstr ""
 
 msgctxt "size"
@@ -5013,6 +5091,10 @@ msgctxt "video-license"
 msgid "YouTube Standard"
 msgstr "ୟୁଟ୍ୟୁବ ମାନକ"
 
+msgctxt "directions"
+msgid "Your Location"
+msgstr ""
+
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"
 msgstr "ଯଦି ଆପଣ ଏହି କଡ଼ିକୁ ପୂର୍ବରୁ ଦେଖିଛନ୍ତି ତେବେ ଆପଣଙ୍କର ବ୍ରାଉଜର ତାହା ଇଙ୍ଗିତ କରିବ"
@@ -5124,7 +5206,7 @@ msgid "optional"
 msgstr "ବିକଳ୍ପ"
 
 #. Used for the <em>color settings</em> into the <a href="https://duckduckgo.com/params.html">URL params page</a> as the last available value for the color parameter.
-#. <em>%s</em> is for a hexadecimal color code as <em>#395323</em>, but it has to be safe encoded, and as <em>#</em> seems not safe, <em>%23</em> must be used in place of the sharp symbol, but they are the same for your browser. 
+#. <em>%s</em> is for a hexadecimal color code as <em>#395323</em>, but it has to be safe encoded, and as <em>#</em> seems not safe, <em>%23</em> must be used in place of the sharp symbol, but they are the same for your browser.
 msgid ""
 "or write out the color code you want, e.g. %s (%s is an encoded %s char)."
 msgstr ""
