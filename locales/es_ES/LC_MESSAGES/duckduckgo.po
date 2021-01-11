@@ -253,7 +253,7 @@ msgstr "Después de descargarse y abrirse, haz clic en %1$sInstall%2$s"
 
 msgid ""
 "After it downloads, locate the extension file and double-click it to install"
-msgstr "Después de que se descargue, localiza el archivo de la extensión e instala haciendo doble ciic"
+msgstr "Después de que se descargue, localiza el archivo de la extensión e instala haciendo doble clic"
 
 msgid "All"
 msgstr "Todo"
