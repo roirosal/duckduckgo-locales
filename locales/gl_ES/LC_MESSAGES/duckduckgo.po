@@ -37,7 +37,7 @@ msgstr "%s bloqueados para unha busca segura."
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s days ago"
-msgstr ""
+msgstr "fai %s días"
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
@@ -46,7 +46,7 @@ msgstr "%s para %s"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s hours ago"
-msgstr ""
+msgstr "fai %s horas"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
@@ -217,7 +217,7 @@ msgstr "Engada unha caixa de buscas de %s ao seu sitio web!"
 
 msgctxt "directions"
 msgid "Add a starting point and destination to find a route."
-msgstr ""
+msgstr "Engade un punto de inicio e un destino para atopar unha ruta."
 
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
@@ -247,7 +247,7 @@ msgstr "Barra de enderezos:"
 
 #. as in multiple advertisements
 msgid "Ads"
-msgstr ""
+msgstr "Anuncios"
 
 msgctxt "feedback form"
 msgid "Advertisements"
@@ -268,8 +268,7 @@ msgstr "Despois de que se descarga e abra, prema %sInstalar%s"
 msgid ""
 "After it downloads, locate the extension file and double-click it to install"
 msgstr ""
-"Despois de descargarse, atope o ficheiro da extensión e faga dobre clic nel "
-"para instalalo"
+"Despois de descargarse, atope o ficheiro da extensión e faga dobre clic nel para instalalo"
 
 msgid "All"
 msgstr "Todo"
@@ -336,11 +335,11 @@ msgstr "GIF animado"
 
 msgctxt "precise_user_location"
 msgid "Anonymous location enabled."
-msgstr ""
+msgstr "Ubicación anónima habilitada."
 
 #. Instant Answer tab name
 msgid "Answer"
-msgstr "Resposta"
+msgstr "Resposter"
 
 #. In feedback page, first box. https://duckduckgo.com/feedback 
 msgid "Answers to most DuckDuckGo questions, like:"
@@ -385,11 +384,11 @@ msgstr "Aplicacións"
 
 msgctxt "feedback form"
 msgid "Are these ads helpful?"
-msgstr ""
+msgstr "Son útiles estes anuncios?"
 
 msgctxt "feedback form"
 msgid "Are these links helpful?"
-msgstr ""
+msgstr "Son útiles estas ligazóns?"
 
 msgid "Argentina"
 msgstr "Arxentina"
@@ -554,7 +553,7 @@ msgstr "Bloquea os rastreadores de publicidade."
 #. Part of a list of what our app can do. The app can: …
 msgctxt "welcome message eu search preference android"
 msgid "Block unsafe trackers"
-msgstr ""
+msgstr "Bloquear reastrexadoes inseguros"
 
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
@@ -619,7 +618,7 @@ msgstr "Idioma preferido do navegador"
 
 msgctxt "precise_user_location"
 msgid "Browser location unavailable."
-msgstr ""
+msgstr "Localización do navegador non dispoñible"
 
 msgid "Bulgaria"
 msgstr "Bulgaria"
@@ -659,7 +658,7 @@ msgstr "Cancelar"
 
 msgctxt "precise_user_location"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #. in https://duckduckgo.com/feedback under "Community Platform" header
 msgid "Care to help translate DuckDuckGo into your language?"
@@ -685,7 +684,7 @@ msgstr "Aliñado no centro"
 msgctxt "settings"
 msgid "Center align the results page (instead of left aligned)"
 msgstr ""
-"Sisúa os resultados no centro da páxina (en lugar de aliñalos a esquerda)"
+"Sitúa os resultados no centro da páxina (en lugar de aliñalos a esquerda)"
 
 msgid "Change Region"
 msgstr "Cambiar rexión"
@@ -824,14 +823,14 @@ msgstr "Limpar"
 
 msgctxt "precise_user_location"
 msgid "Clear"
-msgstr ""
+msgstr "Limpar"
 
 msgid "Clear All"
 msgstr "Limpar todo"
 
 msgctxt "precise_user_location"
 msgid "Clear Location"
-msgstr ""
+msgstr "Limpar localización"
 
 msgid "Clear Region"
 msgstr "Limpar rexión"
@@ -839,7 +838,7 @@ msgstr "Limpar rexión"
 #. Part of a list of what our app can do. The app can: …
 msgctxt "welcome message eu search preference android"
 msgid "Clear data in one tap"
-msgstr ""
+msgstr "Borrar os datos cun só toque"
 
 msgid "Clear your cookies often?"
 msgstr "Limpar os testemuños (cookies) con frecuencia?"
@@ -889,20 +888,20 @@ msgid "Click %sOpen%s to download and open the DuckDuckGo Safari extension"
 msgstr "Prema %sAbrir%s para baixar e abrir a extensión DuckDuckGo de Safari"
 
 msgid "Click %sPrivacy and Services%s in the left sidebar."
-msgstr ""
+msgstr "Prema en %sPrivacy e Services%s na barra lateral esquerda"
 
 msgid ""
 "Click %sSafari%s in the top menu (On Windows, click the %sgears icon%s in "
 "the top right)"
 msgstr ""
-"Prema %sSafari%s no menú superior (en Windows, prema na %sicona da roda%s "
+"Prema en %sSafari%s no menú superior (en Windows, prema na %sicona da roda%s "
 "arriba a dereita)"
 
 msgid "Click %sSettings%s"
 msgstr "Prema %sConfiguración%s"
 
 msgid "Click %sSettings%s in the dropdown."
-msgstr ""
+msgstr "Prema en %sSettings%s no despregable"
 
 msgid "Click %sUse current pages%s then %sClick OK%s."
 msgstr "Prema %sUtilizar páxinas actuais%s e despois %sprema Aceptar%s."
@@ -960,7 +959,7 @@ msgid "Click the %sGeneral%s tab."
 msgstr "Prema na lapela %sXeral%s."
 
 msgid "Click the %sellipsis icon%s in the toolbar."
-msgstr ""
+msgstr "Prema na %sellipsis icon%s na barra de ferramentas."
 
 msgid "Click the Duck icon at the top of your browser to search!"
 msgstr ""
@@ -982,6 +981,8 @@ msgid ""
 "Click the dropdown menu beside %sSearch engine used in the address bar%s and "
 "select %sDuckDuckGo%s."
 msgstr ""
+"Prema no menú despregable ó lado do %sbuscador usado na na barra de enderezos e "
+"seleccione %sDuckDuckGo%s"
 
 msgid "Click the magnifying glass in the search bar"
 msgstr "Prema na lupa na barra de buscas"
@@ -1011,15 +1012,15 @@ msgstr "Pechado"
 
 msgctxt "maps_places"
 msgid "Closed"
-msgstr ""
+msgstr "Pechado"
 
 msgctxt "maps_places"
 msgid "Closes"
-msgstr ""
+msgstr "Pecha"
 
 msgctxt "maps_places"
 msgid "Closes soon"
-msgstr ""
+msgstr "Pecha pronto"
 
 #. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud. 
 msgid "Cloud Save"
@@ -1133,7 +1134,7 @@ msgstr "Violación de copyright"
 
 msgctxt "SERP footer content"
 msgid "Coronavirus Info & Tips"
-msgstr ""
+msgstr "Información e consellos sobre o coronavirus"
 
 #. Instant Answer Tab Name
 msgid "Coupons"
@@ -1141,7 +1142,7 @@ msgstr "Cupóns"
 
 msgctxt "Place detail"
 msgid "Covid-19"
-msgstr ""
+msgstr "Covid-19"
 
 msgctxt "video-license"
 msgid "Creative Commons"
@@ -4247,7 +4248,7 @@ msgstr "Enviar"
 
 msgctxt "precise_user_location"
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 msgctxt "email newsletter"
 msgid "Subscribe"
@@ -4268,7 +4269,7 @@ msgstr "Suxerir unha frase diferente"
 
 msgctxt "directions"
 msgid "Suggestions:"
-msgstr ""
+msgstr "Suxestións:"
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4277,12 +4278,12 @@ msgstr "Suxestións:"
 #. http://i.imgur.com/FczLkAL.png
 msgctxt "settingsvalue"
 msgid "Super Wide"
-msgstr "Super amplo"
+msgstr "Super ancho"
 
 #. http://i.imgur.com/hAG8srI.png
 msgctxt "width"
 msgid "Super wide"
-msgstr "Super larga"
+msgstr "Super ancho"
 
 msgid "Support"
 msgstr "Axuda"
@@ -4346,7 +4347,7 @@ msgstr "Marrón pálido"
 
 msgctxt "precise_user_location"
 msgid "Tap the vertical dots in the DuckDuckGo app."
-msgstr ""
+msgstr "Pulsa nos puntos verticais na aplicación de DuckDuckGo."
 
 msgctxt "color"
 msgid "Teal"
@@ -4496,7 +4497,7 @@ msgid "This page requires Javascript to function."
 msgstr "Esta páxina precisa Javascript para funcionar."
 
 msgid "This video is not yet able to be watched here. You can watch it on %s."
-msgstr ""
+msgstr "Este vídeo aínda non está dispoñible para velo aquí. Pode velo en %s."
 
 msgctxt "Lock icon next to HTTP search result"
 msgid "This webpage does not use a secure, encrypted, connection (HTTPS)."
@@ -4551,7 +4552,7 @@ msgstr "Probe unha busca!"
 
 msgctxt "directions"
 msgid "Try adding a city, state, or postal code."
-msgstr ""
+msgstr "Intente engadir unha cidade, estado ou código postal"
 
 msgctxt "noresults"
 msgid "Try different keywords."
@@ -4559,7 +4560,7 @@ msgstr "Probe con palabras chave diferentes."
 
 msgctxt "precise_user_location"
 msgid "Try enabling anonymous location for more accurate results."
-msgstr ""
+msgstr "Probe a habilitar a localización anónima para obter resultados máis precisos."
 
 msgctxt "noresults"
 msgid "Try fewer keywords."
@@ -4574,10 +4575,10 @@ msgstr "Probe a nosa páxina de inicio que nunca mostra estas mensaxes:"
 
 msgctxt "precise_user_location"
 msgid "Try setting your location manually."
-msgstr ""
+msgstr "Probe a configurar a súa localización manuualmente"
 
 msgid "Try the DuckDuckGo app"
-msgstr ""
+msgstr "Probe a aplicación DuckDuckGo"
 
 #. Message displayed sometimes at top of results (for bang syntax), e.g. <a href="https://duckduckgo.com/?q=twitter+test">https://duckduckgo.com/?q=twitter+test</a>
 msgid "Try: %s"
@@ -4688,11 +4689,11 @@ msgstr "Unidades de medida"
 
 msgctxt "precise_user_location"
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 msgctxt "precise_user_location"
 msgid "Update Location"
-msgstr ""
+msgstr "Actualizar localización"
 
 msgctxt "new user poll"
 msgid "Upgrading to full-time user"
@@ -4727,7 +4728,7 @@ msgstr "Usar no Safari"
 
 msgctxt "directions"
 msgid "Via"
-msgstr ""
+msgstr "A través de"
 
 #. http://i.imgur.com/BF3gZsZ.png
 msgctxt "settings"
@@ -4759,6 +4760,8 @@ msgid ""
 "Viewing ads is privacy protected by DuckDuckGo. Ad clicks are managed by "
 "Microsoft's ad network"
 msgstr ""
+"A visualización de anuncios está protexida pola privacidade de DuckDuckGo."
+"Os clics nos anuncios está xestionado pola rede de anuncios de Microsoft."
 
 msgctxt "mobile promotion on desktop"
 msgid ""
@@ -4782,15 +4785,15 @@ msgstr "O"
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
-msgstr ""
+msgstr "Esperando pola locacalización..."
 
 msgctxt "directions"
 msgid "Walking"
-msgstr ""
+msgstr "Andando"
 
 msgctxt "size"
 msgid "Wallpaper"
-msgstr "Fondo"
+msgstr "Fondo de pantala"
 
 #. in https://duckduckgo.com/feedback under "DuckDuckHack" header
 msgid "Want to develop an instant answer?"
@@ -4798,17 +4801,17 @@ msgstr "Quere desenvolver unha resposta instantánea? "
 
 msgctxt "feedback form"
 msgid "Want to tell us a bit more?"
-msgstr ""
+msgstr "Quere contarnos máis?"
 
 #. e.g. Video search viewing options: http://i.imgur.com/ofZeLRn.png
 msgid "Watch Here"
-msgstr "Vixiar aquí"
+msgstr "Mirar aquí"
 
 msgid "Watch on %s"
-msgstr ""
+msgstr "Mirar en %s"
 
 msgid "Watch on YouTube"
-msgstr "Ver en YouTube"
+msgstr "Mirar en YouTube"
 
 msgctxt "SERP footer content"
 msgid "We Protect Your Privacy"
@@ -4974,7 +4977,7 @@ msgstr "Ligazóns á Web"
 
 msgctxt "maps_places"
 msgid "Website"
-msgstr ""
+msgstr "Páxina web"
 
 msgctxt "settings"
 msgid "Welcome Message"
@@ -4990,7 +4993,7 @@ msgstr "Reciba a benvida ao Lado do Parrulo!"
 
 msgctxt "maps_places"
 msgid "What People Say"
-msgstr ""
+msgstr "Que di a xente"
 
 msgctxt "new user poll"
 msgid "What brought you back today?"
@@ -5006,7 +5009,7 @@ msgstr "Que lle gusta?"
 
 msgctxt "feedback form"
 msgid "What do you think?"
-msgstr ""
+msgstr "Que opina?"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/ta4V0Xy.png
